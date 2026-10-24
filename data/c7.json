@@ -1,0 +1,183 @@
+{
+  "id": "c7",
+  "partId": "p1",
+  "order": 7,
+  "titleAr": "الأشكال الصيدلانية",
+  "titleFr": "Formes galéniques",
+  "minutes": 25,
+  "intro": "الشكل ليس مجرد مظهر. يُصمّم ليلائم طريق الإعطاء ويضمن دقة الجرعة والثبات وسهولة الاستعمال والالتزام بالعلاج.",
+  "sections": [
+    {
+      "title": "ما المقصود بعلم الصيدلانيات؟",
+      "paragraphs": [
+        "{{Galénique}} — علم وفن حفظ الأدوية وتقديمها بما يلائم طرق إعطائها، مع جرعة دقيقة وثبات مُرضٍ واستعمال بسيط يسمح بالالتزام بالعلاج.",
+        "{{Forme pharmaceutique = Forme médicamenteuse = Forme galénique}} — الشكل الصيدلاني: الصورة التي يُقدّم بها الدواء، مثل قرص أو كبسولة أو شراب أو كريم أو محلول حقني، وتُصمّم لطريق الإعطاء المقصود."
+      ]
+    },
+    {
+      "title": "الفموية الصلبة: الأقراص",
+      "paragraphs": [
+        "{{Comprimés (Cp)}} — أقراص: أشكال أسطوانية ناتجة عن ضغط مزيج مسحوق يحتوي على المادة الفعالة والسواغ وإضافات. تكون جرعة مفردة."
+      ],
+      "items": [
+        "{{Sécables / Multisécables}} — قابلة للقسم أو لعدة أقسام.",
+        "{{Enrobés}} — ملبّسة: {{Pelliculés}} — مكسوّة بغشاء، أو {{Dragéifiés}} — ملبّسة سكريًا.",
+        "أقراص خاصة: {{Effervescents}} — فوّارة؛ {{Dispersibles}} — قابلة للتبعثر؛ {{Orodispersibles}} — متبعثرة في الفم.",
+        "{{Libération prolongée (LP)}} — تحرّر مطوّل؛ {{Gastrorésistants à libération entérique}} — مقاومة للمعدة ذات تحرّر معوي."
+      ]
+    },
+    {
+      "title": "الفموية الصلبة: الكبسولات والحبيبات والمساحيق",
+      "paragraphs": [
+        "{{Capsules}} — كبسولات بغلاف صلب أو لين، بأشكال وسعات مختلفة، تحتوي عادة جرعة مفردة من المادة الفعالة."
+      ],
+      "items": [
+        "{{Gélules}} — كبسولات صلبة من نصفَي غلاف جيلاتيني متداخلين يحويان مسحوقًا جافًا. توجد أنواع مقاومة للمعدة وأخرى معدلة التحرر مثل Skenan LP في مثال الدرس.",
+        "{{Capsules molles}} — كبسولات لينة بجدار سميك ومرن، للمساحيق والسوائل غير المائية والمحاليل والمستحلبات والمعلّقات والعجائن.",
+        "{{Granulés}} — حبيبات صغيرة غير منتظمة، قد تكون محلاة أو منكهة أو لا؛ تُعطى بالملعقة للمضغ أو تُذاب في الماء لإعداد شراب.",
+        "{{Poudres}} — مساحيق: أكياس جرعات لدقة القياس، أو قوارير متعددة الجرعات."
+      ]
+    },
+    {
+      "title": "الفموية السائلة: الشراب والمحلول",
+      "paragraphs": [
+        "{{Sirops}} — أشربة: مستحضرات مائية محلاة ولزجة، وتركيز السكر المرتفع يستدعي الانتباه لدى مريض السكري كما ينبه الدرس.",
+        "{{Solutions buvables}} — محاليل للشرب: المادة الفعالة مذابة في مذيب مائي أو مزيج مائي كحولي. تُقدّم في أمبولة جرعة مفردة أو قارورة متعددة الجرعات مع قطّارة أو محقنة جرعات أو ملعقة قياس."
+      ]
+    },
+    {
+      "title": "الفموية السائلة: المعلّق والمستحلب",
+      "paragraphs": [
+        "{{Suspension}} — معلّق: مسحوق غير ذائب مبعثر في سائل. {{Émulsion}} — مستحلب: مزيج من سائلين غير ممتزجين، ويستعمل الدرس الرمز {{H/E}}.",
+        "تذكر الشريحة إعادة التحضير وقت الاستعمال ومحدودية الثبات والحفظ."
+      ],
+      "note": "ملاحظة للتوضيح: نحتفظ بعبارة «À reconstituer au moment de l’utilisation» في سياق الشريحة 51، ولا نحوّلها إلى قاعدة لكل مستحضر سائل. إضافة للتوضيح: حركة الرج في المستكشف تمثيل بصري لإعادة تبعثر الجسيمات، وليست تعليمات استعمال لمنتج محدد."
+    },
+    {
+      "title": "الأشكال الحقنية",
+      "paragraphs": [
+        "قد تُقدّم جاهزة كسائل أو كمسحوق يوضع في محلول وقت التحضير. تشمل محاليل ومعلقات ومستحلبات."
+      ],
+      "items": [
+        "{{Solutions injectables}} — محاليل حقنية: مادة فعالة مذابة في مذيب مناسب. خصائصها: {{Stérilité}} — التعقيم، {{Apyrogénicité}} — الخلو من مولدات الحمى، {{Neutralité}} — التعادل، {{Isotonicité}} — تساوي التوتر، {{Limpidité}} — الصفاء.",
+        "{{Suspensions injectables}} — معلقات حقنية: مسحوق أو بلورات غير ذائبة في سائل؛ تحرّر المادة تدريجيًا لإطالة مدة الفعل، مثل الإنسولين أو الكورتيكويدات المديدة.",
+        "{{Émulsions injectables}} — مستحلبات حقنية: طور زيتي ضمن طور مائي مستمر غالبًا، لمادة فعالة محبة للدهن؛ مثالها الدهون في التغذية الحقنية."
+      ]
+    },
+    {
+      "title": "عبر المخاطيات: من الفم إلى العين",
+      "paragraphs": [],
+      "items": [
+        "{{Sublinguales}} — تحت اللسان: يُمضغ الدواء أو يتفكك في الفم دون أن يُبلع، حسب صياغة الشريحة.",
+        "{{ORL}} — أنف وأذن وحنجرة: غسولات الفم، قطرات الأنف، وقطرات الأذن.",
+        "{{Oculaires}} — عينية: قطرات عينية ومراهم عينية وغسولات عينية."
+      ]
+    },
+    {
+      "title": "عبر المخاطيات: الرئة والمستقيم والمهبل",
+      "paragraphs": [],
+      "items": [
+        "{{Pulmonaires}} — رئوية: أثر عام للتخدير باستعمال الغازات أو السوائل المتطايرة؛ وأثر موضعي للربو باستعمال الرذاذ والبخاخات وأجهزة الاستنشاق.",
+        "{{Rectales}} — شرجية: تحاميل وكبسولات ورغوات ومراهم.",
+        "{{Vaginales}} — مهبلية: بويضات بشكل بيضي وكبسولات لينة ملساء."
+      ]
+    },
+    {
+      "title": "الأشكال الجلدية",
+      "paragraphs": [
+        "{{Usage local}} — استعمال موضعي: مراهم وكريمات وهلامات وعجائن جلدية. {{Usage systémique}} — استعمال جهازي: مراهم عبر الجلد وأنظمة عبر الجلد تسمى {{Patchs}} — لصقات."
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "type": "forms",
+      "title": "مستكشف الأشكال الصيدلانية",
+      "caption": "صفِّ حسب الطريق ثم اختر شكلًا. شغّل حركة الذوبان أو فتح الكبسولة أو الرج أو التحرّر من اللصقة."
+    }
+  ],
+  "summary": [
+    "الشكل الصيدلاني يلائم طريق الإعطاء ويساعد على دقة الجرعة والثبات والالتزام.",
+    "{{Suspension}} مسحوق غير ذائب في سائل؛ {{Émulsion}} سائلان غير ممتزجين.",
+    "للمحاليل الحقنية خمس خصائص: التعقيم والخلو من مولدات الحمى والتعادل وتساوي التوتر والصفاء."
+  ],
+  "sourcePages": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56
+  ],
+  "originals": [
+    {
+      "page": 42,
+      "text": "42\nDéfinitions\nLa galénique: c’est la science et l’art de conserver, de présenter les \nmédicaments de la manière la plus adaptée à leurs modes d’administration avec \nla garantie d’un dosage précis, d’une stabilité satisfaisante et d’une utilisation \nsimple permettant l’observance d’un traitement…\nLa forme pharmaceutique (également appelée « forme médicamenteuse » ou \n« forme galénique ») correspond à la forme sous laquelle le médicament se \nprésente (comprimé, gélule, sirop, crème, solution injectable, etc.). Elle est \nspécialement conçue pour la voie d’administration à laquelle le médicament est \ndestiné.\n8-Formes galéniques des médicaments"
+    },
+    {
+      "page": 43,
+      "text": "43\nFormes pharmaceutiques destinées à la voie orale\nFormes injectables\nFormes transmuqueuses\nFormes cutanées\n8-Formes galéniques des médicaments"
+    },
+    {
+      "page": 44,
+      "text": "44\nSolide ou sèche\nLiquide\n• Comprimés\n• Gélules \n• Capsules…..\n• Sirops\n• Solutions\n• Suspensions…\nSouvent multidoses \nadaptées aux enfants\nSouvent unitaires \nmeilleure conservation\nFormes pharmaceutiques destinées à la \nvoie orale"
+    },
+    {
+      "page": 45,
+      "text": "45\nFormes Solides ou sèches\nLes comprimés (Cp)\no Objets cylindriques formés par compression d'un mélange de poudre contenant la \nsubstance active, un excipient et divers additives.\no Ils sont unidoses et peuvent être :\n• Sécables ou multi sécables\n• Enrobés (pelliculés, dragéifiés)\n• Cp spéciaux: effervescents, dispersibles, orodispersibles, à libération prolongée \n(Lp), gastrorésistants à libération entérique….\n"
+    },
+    {
+      "page": 46,
+      "text": "46\nLes Capsules\nLes \ncapsules \nsont \ndes \npréparations \nsolides \nconstituées d’une enveloppe dure ou molle, de \nforme \net \nde \ncapacité \nvariables, \ncontenant \ngénéralement 1 dose unitaire de PA.\nLes capsules \nmolles\nCapsules à \nenveloppes dures\n•\nCe sont des monodoses = unidoses\n•\nElles sont destinées à l’administration orale"
+    },
+    {
+      "page": 47,
+      "text": "47\nIl existe des gélules:\no Gastro-resistantes (enveloppe ou contenu enrobés)\no À libération modifiée (Skenan LP )\n1- Capsules à enveloppes dures = gélules\nFormées de 2 demi- capsules a base de gélatine, emboitées et \ncontenant un mélange de poudre sèche\n2- Les capsules molles\nFormées d’une paroi épaisse et souple, destinées à contenir des poudres, \ndes liquides non aqueux, des solutions, des émulsions, des suspensions, \npâtes"
+    },
+    {
+      "page": 48,
+      "text": "48\nLes granulés\nLes granulés sont de petits \ngrains de forme irrégulières \nsucrés ou non, aromatisés ou \nnon. Ils sont administrés à la \ncuillère (granulés à croquer) ou \ndissous dans l'eau (granulés pour \nsirop).\nLes poudres\nElles sont présentées, soit en sachets \ndose qui permettent une bonne précision \ndu dosage, soit en flacons multidose."
+    },
+    {
+      "page": 49,
+      "text": "49\nLa forme liquide pour usage orale (per os) \npeut être une solution, une suspension ou une \némulsion.\nFormes liquides\n"
+    },
+    {
+      "page": 50,
+      "text": "50\na) Les sirops\n▪\nPréparations aqueuses sucrées et de consistance visqueuse\n▪\nForte concentration en sucre          attention/diabétique\nb) Les solutions ou solutés buvables\n▪\nLe PA est dissout dans un solvant à base d'eau ou un mélange  hydro-alcoolique.\n▪\nLes solutions buvables sont présentées, soit en ampoule (forme unitaire), soit en \nflacon de contenance plus ou moins importante (forme multidose).  Dans ce cas là, \npeut être joint un système de mesure :  compte-gouttes,  seringue-doseuse, cuillère \nmesure..."
+    },
+    {
+      "page": 51,
+      "text": "51\nc) Les suspensions et émulsions buvables\nDispersion d’une poudre\ninsoluble dans un liquide\nMélange de deux liquids non \nmiscibles (H/E)\nSuspension\nEmulsion\n➢À reconstituer au moment de l’utilisation\n➢Stabilité et conservation limités"
+    },
+    {
+      "page": 52,
+      "text": "52\nFormes injectables\nLes préparations injectables se présentent, soit sous la forme \nd'un liquide prêt à l'emploi, soit sous la forme d'une poudre à \nmettre en solution.\nComme pour les présentations orales, on trouve des \nsolutions, des suspensions et des émulsions."
+    },
+    {
+      "page": 53,
+      "text": "53\n1) Les solutions injectable\nConstitué par la mise en solution d'un ou plusieurs PA dans un solvant, elles peuvent être, \nsoit préparées à l'avance et prêtes à l'emploi, soit à réaliser extemporanément par la mise \nen solution d'une poudre soluble dans un solvant approprié.\n• Stérilité \n• Apyrogénicité \n• Neutralité \n• Isotonicité \n• Limpidité\nCaractéristiques"
+    },
+    {
+      "page": 54,
+      "text": "54\n2) Les suspensions injectables\no Préparation obtenue par dispersion d'une poudre ou de cristaux insolubles dans \nun liquide. \no Cette forme permet d'obtenir une libération progressive du PA, autorisant un \nallongement de la durée d'action (ex : insulines ou corticoïdes retard).\n3) Les émulsions injectables\no Mélange de deux liquides non miscibles, constitué généralement par une phase \nhuileuse dispersée dans une phase aqueuse continue. \no Cette présentation est utilisée lorsque le PA est lipophile (ex : apport de lipides en \nnutrition parentérale)."
+    },
+    {
+      "page": 55,
+      "text": "55\nFormes transmuqueuses\n1) Sublinguales\n•\nLe médicament est croqué ou se \ndélite dans la bouche (sans être \navalé)\n2) ORL\n•\nBains de bouche\n•\nGoutes nasales\n•\nGoutes auriculaires\n3) Oculaires\n•\nCollyres\n•\nPommades ophtalmiques\n•\nBains oculaires\n•\n…….\n4) Pulmonaires\n•\nA action générale (anesthésie): gaz, \nliquides volatiles\n•\nA action locale (asthme): aérosols, \nsprays, inhalateurs……\n5) Rectales\n•\nSuppositoires\n•\nCapsules rectales\n•\nMousses rectales\n•\nPommades rectales\n•\n……\n6) Vaginales\n•\nOvules (forme ovoïde)\n•\nCapsules (capsule molle à paroi lisse)\n•\n……."
+    },
+    {
+      "page": 56,
+      "text": "56\nFormes cutanées\nPréparation pour usage local \no Pommades, crèmes, gels\no Pates dermiques……\nPréparation pour usage \nsystémiques \no Pommades transdermiques\no Systèmes transdermiques = Patchs"
+    }
+  ]
+}

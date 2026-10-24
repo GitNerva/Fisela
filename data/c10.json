@@ -1,0 +1,69 @@
+{
+  "id": "c10",
+  "partId": "p1",
+  "order": 10,
+  "titleAr": "التداخلات الدوائية",
+  "titleFr": "Interactions médicamenteuses",
+  "minutes": 14,
+  "intro": "عند اجتماع دواءين، قد يتغير الأثر. نفهم أولًا معنى التداخل، ثم نميّز الجمع البسيط والتقوية والتضاد.",
+  "sections": [
+    {
+      "title": "ما الذي قد يتغيّر؟",
+      "paragraphs": [
+        "{{Interaction médicamenteuse}} — تداخل دوائي: تعديل تأثير دواء بسبب إعطاء دواء آخر بالتزامن أو بالتتابع. قد يتغير {{Intensité}} — شدة الأثر، أو {{Durée}} — مدته، أو {{Délai d’apparition}} — زمن ظهوره."
+      ]
+    },
+    {
+      "title": "جمع مقصود أو عرضي",
+      "paragraphs": [
+        "{{Associations fixées par le médecin}} — مشاركات يحددها الطبيب: تذكر الشريحة تجنّب إعطاء أكثر من 3 عقاقير من فئات مختلفة لاستطباب واحد في الوقت نفسه قدر الإمكان.",
+        "{{Associations fortuites}} — مشاركات عرضية: ترتبط بـ {{Automédication}} — التداوي الذاتي."
+      ],
+      "note": "ملاحظة للتوضيح: عبارة أكثر من 3 عقاقير توصية مذكورة بصيغة «en principe» و«autant que possible»؛ لا تعني أن ثلاثة أدوية تضمن غياب التداخلات."
+    },
+    {
+      "title": "نتائج المشاركة",
+      "paragraphs": [
+        "تصف الشريحة المشاركة مع أي {{Xénobiotique}} — مادة غريبة عن الجسم."
+      ],
+      "items": [
+        "{{Synergie additive}} — تآزر جمعي: الأثران يُجمعان حسابيًا.",
+        "{{Potentialisation}} — تقوية: الأثر الناتج أكبر من مجرد جمع الأثرين.",
+        "{{Antagonisme}} — تضاد: يضعف أثر دواء أو يختفي عند إعطاء الدواء الثاني."
+      ]
+    },
+    {
+      "title": "مثال حسابي لتثبيت الفكرة",
+      "paragraphs": [
+        "إضافة للتوضيح: إذا رمزنا لكل أثر بوحدة واحدة، فإن {{Synergie additive}} هي 1 + 1 = 2؛ و{{Potentialisation}} مثل 1 + 1 = 3 أو أكثر؛ و{{Antagonisme}} يُمثَّل بانخفاض الأثر، وقد يصل إلى 0."
+      ],
+      "note": "إضافة للتوضيح: هذه أرقام رمزية للتعلّم، وليست قياسات لدواء بعينه. وإذا استُعمل تعبير «0 أو أقل» فلا يُقصد به جرعة سالبة أو قاعدة حسابية سريرية."
+    }
+  ],
+  "animations": [
+    {
+      "type": "interactions",
+      "title": "شاهد الأثر بدل حفظ الاسم فقط",
+      "caption": "اختر الجمع أو التقوية أو التضاد وقارن طول عمود الأثر. إضافة للتوضيح: الأعمدة رمزية وليست بيانات دوائية."
+    }
+  ],
+  "summary": [
+    "التداخل قد يغير الشدة أو المدة أو زمن بدء التأثير.",
+    "{{Synergie}} جمع؛ {{Potentialisation}} أكبر من الجمع؛ {{Antagonisme}} انخفاض أو اختفاء للأثر.",
+    "المشاركة العرضية في الدرس مرتبطة بالتداوي الذاتي."
+  ],
+  "sourcePages": [
+    73,
+    74
+  ],
+  "originals": [
+    {
+      "page": 73,
+      "text": "73\nL’interaction médicamenteuse correspond à la modification de l’effet d’un \nmédicament par l’administration simultanée ou successive d’un autre ; la \nmodification peut concerner : l’intensité ; la durée ; ou le délai de \nl’apparition de l’effet.\nLes différents types d’associations sont :\n• Les associations fixées par le médecin: en principe, il faut éviter, autant \nque possible, d'administrer à la fois et pour une seule indication plus de 3 \ndrogues de catégories différentes.\n• Les associations fortuites: c'est l'automédication\n10) L’interaction médicamenteuse"
+    },
+    {
+      "page": 74,
+      "text": "74\nLes interactions médicamenteuses sont le résultat d’une co-administration \navec n’importe quel autre xénobiotique dont les conséquences :\n1. Synergie additive : les effets des deux médicaments s’ajoutent \narithmétiquement.\n2. Potentialisation: la somme des effets des deux médicaments est \nsupérieure à leur simple addition.\n3. Antagonisme : l’effet d’un médicament est diminué ou supprimé lors de \nl’administration du second médicament."
+    }
+  ]
+}

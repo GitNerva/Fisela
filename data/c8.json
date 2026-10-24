@@ -1,0 +1,182 @@
+{
+  "id": "c8",
+  "partId": "p1",
+  "order": 8,
+  "titleAr": "رحلة الدواء إلى المريض",
+  "titleFr": "Cycle de vie du médicament",
+  "minutes": 22,
+  "intro": "من آلاف الجزيئات إلى دواء واحد: اكتشاف، اختبارات قبل سريرية، تجارب سريرية، ترخيص، ثم يقظة دوائية بعد التسويق.",
+  "sections": [
+    {
+      "title": "انتقاء متدرّج",
+      "paragraphs": [
+        "يعرض رسم دورة الحياة {{10 000 molécules criblées}} — عشرة آلاف جزيئة مفحوصة، ثم 100 جزيئة مختبرة، ثم 10 مرشحين دوائيين، وصولًا إلى دواء واحد."
+      ]
+    },
+    {
+      "title": "البحث الاستكشافي: العثور على مرشّح",
+      "paragraphs": [
+        "{{Recherche exploratoire}} — بحث لاكتشاف جزيئات ذات إمكان علاجي. نحدّد هدفًا بيولوجيًا مثل إنزيم أو مستقبل، نختبر الجزيئات عليه، نحسّن الواعدة منها، ثم ننجز اختبارات أولية {{In vitro}} — مخبرية خارج الكائن الحي أو {{In silico}} — حاسوبية. تُنتقى جزيئة للمرحلة قبل السريرية."
+      ]
+    },
+    {
+      "title": "التقييم قبل السريري: قبل الإنسان",
+      "paragraphs": [
+        "{{Évaluation préclinique}} — تقييم لفهم آلية الفعل والفعالية والسمية على الحيوان قبل الإعطاء للإنسان."
+      ],
+      "items": [
+        "{{Toxicité aiguë (DMT)}} — السمية الحادة وDMT؛ وإصابة الأعضاء.",
+        "مخاطر {{Cancérigène}} — مسرطن، {{Mutagène}} — مطفّر، {{Tératogène}} — ماسخ.",
+        "معطيات الحركية الدوائية.",
+        "اختبارات على الحيوان، وعلى عضو معزول وخلايا مزروعة وأنسجة."
+      ],
+      "note": "إضافة للتوضيح: يُشرح اختصار DMT عادة بـ Dose maximale tolérée — الجرعة القصوى المتحمَّلة؛ الشرائح تذكر الاختصار دون بسطه."
+    },
+    {
+      "title": "المراحل السريرية: دراسة الدواء عند الإنسان",
+      "paragraphs": [],
+      "note": "ملاحظة للتوضيح: هذه أوصاف المراحل وأعداد المشاركين كما في الشرائح، وتُراجع في سياق الدرس.",
+      "table": {
+        "headers": [
+          "المرحلة",
+          "المشاركون",
+          "ماذا نقيّم؟"
+        ],
+        "rows": [
+          [
+            "Phase I — الأولى",
+            "بضع عشرات من المتطوعين الأصحاء",
+            "الأمان؛ مصير الجزيئة؛ السمية؛ تحديد DMT"
+          ],
+          [
+            "Phase II — الثانية",
+            "150 إلى 350 مريضًا",
+            "الفعالية؛ المأمونية؛ الآثار الثانوية؛ علاقة الأثر بالجرعة؛ تحسين الجرعة والشكل الصيدلاني"
+          ],
+          [
+            "Phase III — الثالثة",
+            "عدة آلاف من المرضى",
+            "تأكيد الفعالية والأمان على نطاق واسع؛ المأمونية قصيرة الأمد؛ التداخلات؛ نسبة الفوائد إلى المخاطر؛ احتياطات الاستعمال"
+          ],
+          [
+            "Phase IV — الرابعة",
+            "بعد التسويق، استعمال لدى جمهور واسع",
+            "متابعة الآثار غير المرغوبة واليقظة الدوائية"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "الترخيص بالتسويق: ثلاثة ملفات وثلاثة محاور",
+      "paragraphs": [
+        "{{AMM — Autorisation de mise sur le marché}} — ترخيص طرح الدواء في السوق. يُحضَّر ملف صيدلاني، وملف دوائي سُمّي، وملف سريري، ثم يُقدم الطلب للسلطات المسؤولة."
+      ],
+      "items": [
+        "{{Qualité}} — الجودة: يقيّمها خبراء صيدلانيون.",
+        "{{Sécurité}} — الأمان: يقيّمه خبراء علم الأدوية والسموم.",
+        "{{Efficacité}} — الفعالية: يقيّمها خبراء سريريون، مع التداخلات الدوائية والدواء أثناء الحمل.",
+        "آراء الخبراء ← لجنة الترخيص بالتسويق ← القرار النهائي."
+      ]
+    },
+    {
+      "title": "بعد التسويق: اليقظة لا تتوقف",
+      "paragraphs": [
+        "{{Pharmacovigilance}} — اليقظة الدوائية: مجموعة تقنيات تحديد وتقييم والوقاية من خطر الآثار غير المرغوبة للأدوية المطروحة في السوق بمقابل أو مجانًا. هذه هي المرحلة الرابعة بعد الحصول على الترخيص."
+      ]
+    },
+    {
+      "title": "اقرأ خط الزمن مع عبارة الاستغلال",
+      "paragraphs": [
+        "يوضح الرسم إيداع {{Brevet}} — البراءة في السنة 0، ونحو 10 سنوات للبحث والتطوير، ثم 2 إلى 3 سنوات للإجراءات الإدارية: الترخيص والسعر والتعويض. يلي ذلك التسويق واليقظة الدوائية. تنتهي البراءة عند 20 سنة من الإيداع، مع زيادة قصوى 5 سنوات إذا وُجد {{CCP — Certificat complémentaire de protection}} — شهادة حماية تكميلية.",
+        "تقول الشريحة 69: بعد الحصول على AMM يمكن للصناعة استغلال الدواء لمدة 10 سنوات، ثم تسقط البراءة في الملك العام ويصبح إنتاج الجنيس ممكنًا."
+      ],
+      "note": "ملاحظة للتوضيح: تحمي البراءة الاختراع 20 سنة من تاريخ الإيداع، وفق الشريحة 70، ولا تبدأ هذه العشرون سنة عند AMM. لذلك تُقرأ عبارة «10 سنوات استغلال بعد AMM» مع خط الزمن، ولا تُفهم على أنها مدة حماية ثابتة جديدة لكل دواء."
+    }
+  ],
+  "animations": [
+    {
+      "type": "funnel",
+      "title": "من 10 000 إلى دواء واحد",
+      "caption": "تتبّع مراحل الانتقاء من الجزيئات المفحوصة إلى الدواء."
+    },
+    {
+      "type": "timeline",
+      "title": "حرّك خط الزمن",
+      "caption": "اختر السنة لعرض البحث والتطوير والإجراءات الإدارية والتسويق وانتهاء البراءة و{{CCP}}."
+    }
+  ],
+  "summary": [
+    "الاستكشاف ← قبل السريري ← السريري I ثم II ثم III ← AMM ← IV.",
+    "الأولى: أصحاء؛ الثانية: 150–350 مريضًا؛ الثالثة: آلاف؛ الرابعة: بعد التسويق.",
+    "براءة 20 سنة من الإيداع، مع قراءة ملاحظة الاستغلال وخط الزمن معًا."
+  ],
+  "sourcePages": [
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "originals": [
+    {
+      "page": 57,
+      "text": "57\n9) Le cycle de vie du médicament\nRecherche exploratoire\nTrouver de nouvelles \nmolécules ayant un potentiel \nthérapeutique"
+    },
+    {
+      "page": 58,
+      "text": "58\nÉtapes principales :\no Identifier cibles biologiques (enzyme, récepteur…)\no Tester des molécules pour voir leur effet sur la cible\no Optimiser les molécules prometteuses\no Réaliser des tests préliminaires in vitro ou in silico\nExploratoire = phase de découverte avant les essais sur animaux ou humains.\nSélectionner une molécule candidate pour les tests précliniques."
+    },
+    {
+      "page": 59,
+      "text": "59\nÉvaluation préclinique\no L'étude préclinique est la seconde étape fondamentale dans la fabrication \nd'un médicament. \no Elle permet de comprendre le mode d'action du médicament et de \ntester l'efficacité et la toxicité des molécules sur l'animal avant son \nadministration à l'Homme"
+    },
+    {
+      "page": 60,
+      "text": "60\nÉvaluation préclinique\n• Toxicité aigue (DMT), atteinte organique \n• Risque cancérigène, mutagène et tératogène \n• Données pharmacocinétiques\nExpérience sur organe isolé\nExpérience sur tissus\nTests sur l’animal\nExpérience sur cellule en culture"
+    },
+    {
+      "page": 61,
+      "text": "61\nÉvaluation clinique\nQuatre phases:\n•\nTrois phases avant la commercialisation: I - II – III.\n•\nUne phase après la commercialisation: IV.\nEnsemble des étapes \nd’étude du médicament \nchez l’homme\n10 candidats \nmédicaments"
+    },
+    {
+      "page": 62,
+      "text": "62\nPhase I\nQuelques dizaines de volontaires \nsains\no Devenir de la molécule dans l’organisme humain et évaluation de sa toxicité\no Déterminer la DMT\nÉvaluation de la sécurité \ndu médicament sur des \nvolontaires sains"
+    },
+    {
+      "page": 63,
+      "text": "63\nPhase II\nEssai sur 150 à 350 malades\no Efficacité du MDC\no Son innocuité\no Effets secondaires\no Effet-dose\no Optimiser le dosage du MDC\no Forme pharmaceutique\nÉvaluation de l’efficacité et de la \nsécurité du médicament sur un groupe \nde patients atteints de la maladie \nciblée"
+    },
+    {
+      "page": 64,
+      "text": "64\nPhase III\nPlusieurs milliers de patients\no Efficacité du MDC\no Innocuité à court terme\no Possibles interactions\no Rapport bénéfices/risques \no Précautions d’utilisations\nConfirmation de \nl’efficacité et de la \nsécurité à grande échelle"
+    },
+    {
+      "page": 65,
+      "text": "65\nAutorisation de mise sur le marché (AMM)\nPréparation des dossiers du médicament\nPharmaceutique\nPharmaco - Toxicologique\nClinique\nDemande de l’AMM aux\nautorités responsables"
+    },
+    {
+      "page": 66,
+      "text": "66\nDemande d’autorisation de mise sur \nle marché\nSécurité\nEvaluation par des experts \npharmaco-toxicologiques\nQualité\nEvaluation par des experts \npharmaceutiques\nEfficacité\nEvaluation par des experts \ncliniciens\nInteractions médicamenteuses\nMédicament et grossesse\nAvis\nAvis\nAvis\nCommission d’autorisation de \nmise sur le marché \nDécision finale"
+    },
+    {
+      "page": 67,
+      "text": "67\nAprès obtention de l’AMM, le médicament\nsera utilisé chez une population très large\nsurveillance des effets indésirables\nC’est l’ensemble des techniques d’identification, d’évaluation et de \nprévention du risque d’effet indésirable des médicaments mis sur le \nmarché à titre onéreux ou gratuit\n-Pharmacovigilance-\nPhase IV"
+    },
+    {
+      "page": 68,
+      "text": "68"
+    },
+    {
+      "page": 69,
+      "text": "69\n• Une fois l'AMM obtenue, l'industrie pharmaceutique produisant le \nmédicament peut l'exploiter pendant 10 ans. \n• Après les dix années d’exploitation, le brevet tombe dans le domaine \npublic et il est alors possible de fabriquer des médicaments génériques\nExploitation et médicaments génériques"
+    }
+  ]
+}

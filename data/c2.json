@@ -1,0 +1,87 @@
+{
+  "id": "c2",
+  "partId": "p1",
+  "order": 2,
+  "titleAr": "فروع علم الأدوية",
+  "titleFr": "Les branches de la pharmacologie",
+  "minutes": 14,
+  "intro": "لنرتّب الفروع في خريطة واحدة. اسأل في كل مرة: هل ندرس مبادئ عامة، أم مادة فعالة في المختبر، أم دواء عند الإنسان، أم فئة دوائية؟",
+  "sections": [
+    {
+      "title": "الفرع العام: ثلاثة أسئلة أساسية",
+      "paragraphs": [
+        "{{Pharmacologie générale}} — علم الأدوية العام: يدرس المبادئ العامة التي تنظّم التفاعل بين الأدوية والكائنات الحية."
+      ],
+      "items": [
+        "{{Pharmacocinétique}} — الحركية الدوائية: فعل الجسم على الدواء؛ وتشمل {{Absorption}} — الامتصاص، {{Distribution}} — التوزيع، {{Métabolisme}} — الاستقلاب، و{{Excrétion}} — الإطراح.",
+        "{{Pharmacodynamie}} — الديناميكا الدوائية: فعل الدواء على الجسم أو على {{Cible thérapeutique}} — الهدف العلاجي.",
+        "{{Pharmacovigilance}} — اليقظة الدوائية: طرق كشف الآثار غير المرغوبة والوقاية منها."
+      ]
+    },
+    {
+      "title": "الفرع الأساسي: الدراسة التجريبية",
+      "paragraphs": [
+        "{{Pharmacologie fondamentale}} — علم الأدوية الأساسي: دراسة العقار أو {{Principe actif}} — المادة الفعالة، على الخلايا والأنسجة والأعضاء وحيوانات المختبر."
+      ]
+    },
+    {
+      "title": "الفرع السريري: الدراسة عند الإنسان",
+      "paragraphs": [
+        "{{Pharmacologie clinique}} — علم الأدوية السريري: تجارب على متطوعين أصحاء أو مرضى لتقييم الإمكان العلاجي لمادة مرشّحة لأن تصبح دواء. ويشمل {{Suivi thérapeutique}} — متابعة علاج المرضى."
+      ]
+    },
+    {
+      "title": "الفرع الخاص: الدراسة بحسب الفئات",
+      "paragraphs": [
+        "{{Pharmacologie spéciale}} — علم الأدوية الخاص: يدرس تفاعلات الأدوية مع الكائنات الحية بطريقة منظمة داخل كل فئة، ويفسّر آليات تأثير الفئات العلاجية الكبرى."
+      ],
+      "items": [
+        "{{Classement physiologique}} — تصنيف فسيولوجي.",
+        "{{Spectre d’action}} — طيف التأثير: تصنيف بحسب مجال التأثير.",
+        "{{Affinité thérapeutique}} — التقارب العلاجي: تصنيف بحسب التوجه العلاجي.",
+        "{{Structure chimique}} — البنية الكيميائية: تصنيف بحسب التركيب."
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "type": "branches",
+      "title": "افتح شجرة الفروع",
+      "caption": "افتح كل فرع لتعرف ما الذي يدرسه، ثم أعد تشغيل تتابع الشجرة."
+    }
+  ],
+  "summary": [
+    "الجسم على الدواء = {{Pharmacocinétique}}. الدواء على الجسم = {{Pharmacodynamie}}.",
+    "الكشف عن الآثار غير المرغوبة والوقاية منها = {{Pharmacovigilance}}.",
+    "الأساسي تجريبي، والسريري عند الإنسان، والخاص بحسب الفئات."
+  ],
+  "sourcePages": [
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "originals": [
+    {
+      "page": 8,
+      "text": "8\n2-Les branches de la pharmacologie\nLA \nPHARMACOLOGIE\nPharmacologie\ngénérale\nPharmacologie\nfondamentale\nPharmacologie\nspéciale\nPharmacologie\nclinique"
+    },
+    {
+      "page": 9,
+      "text": "9\nPharmacologie générale\nPharmacocinétique\nPharmacodynamique\nPharmacovigilance\nLa pharmacologie générale s'intéresse aux principes généraux qui gouvernent les \ninteractions entre les médicaments et les organismes vivants. \nLa pharmacologie générale"
+    },
+    {
+      "page": 10,
+      "text": "10\nPharmacocinétique: C’est l'étude de la série des événements auxquels est soumis un \nmédicament (absorption; distribution, métabolisme et excrétion). C’est l’étude de \nl’action de l’organisme (processus physiologiques) sur le médicament.\nPharmacodynamie: L’étude de l’action du médicament sur sa cible thérapeutique. \n(Action du médicament sur l’organisme).\nLes méthodes de détection et de prévention des effets indésirables : c’est la \npharmacovigilance."
+    },
+    {
+      "page": 11,
+      "text": "11\n▪\nÉtude d’une drogue - principe actif sur les cellules, tissus, organes, animaux \nde laboratoires.\n▪Essais cliniques chez des volontaires sains ou malades pour évaluer le potentiel \nthérapeutique d’une substance candidate à devenir un médicament.\n▪Suivi thérapeutique des malades.\nLa pharmacologie fondamentale\nLa pharmacologie clinique"
+    },
+    {
+      "page": 12,
+      "text": "12\nLa pharmacologie spéciale\nMédicaments regroupés \npar « classes »\nClassement physiologique\nClassement par spectre d’action\nClassement par affinité thérapeutique\nClassement par structure chimique\n▪Etudie les interactions entre les médicaments et les organismes vivants de manière \nsystématique dans le cas de chaque classe de médicament.\n▪C’est la compréhension pharmacologique des mécanismes d’action des grandes classes \nthérapeutiques."
+    }
+  ]
+}

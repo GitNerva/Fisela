@@ -1,0 +1,127 @@
+{
+  "id": "c3",
+  "partId": "p1",
+  "order": 3,
+  "titleAr": "الدواء: مكوّناته وأسماؤه",
+  "titleFr": "Le médicament",
+  "minutes": 20,
+  "intro": "الدواء ليس المادة الفعالة وحدها. سنفهم تعريفه القانوني، وما يحتويه، ولماذا نستعمله، وكيف نميّز اسمه العلمي عن اسمه التجاري.",
+  "sections": [
+    {
+      "title": "ما الذي يُعدّ دواء؟",
+      "paragraphs": [
+        "{{Médicament}} — الدواء: كل مادة أو تركيب يُقدَّم على أنه يملك خصائص علاجية أو وقائية تجاه أمراض الإنسان؛ ويشمل أيضًا ما يُعطى للإنسان أو الحيوان لإقامة تشخيص طبي أو لاستعادة الوظائف العضوية أو تصحيحها أو تعديلها. احفظ التعريف الفرنسي الأصلي للامتحان."
+      ]
+    },
+    {
+      "title": "داخل الدواء: مادتان بدورين مختلفين",
+      "paragraphs": [
+        "{{Principe actif (PA)}} — المادة الفعالة: الجزيئة الأم الموجّهة إلى الفعل الدوائي المطلوب، وهي التي تمنح الدواء خصائصه العلاجية أو الوقائية.",
+        "{{Excipient}} — السواغ: يصفه الدرس بأنه مادة خاملة دون فعل دوائي. يعطي المادة شكلًا صيدلانيًا مناسبًا، ويوفر معها مزيجًا متجانسًا، ويتيح التحضير والحفظ والاستعمال."
+      ],
+      "note": "ملاحظة للتوضيح: عبارة تعريف السواغ في الشريحة 14 غير مكتملة لغويًا؛ احتفظنا بها كما هي في النص الأصلي وشرحنا الوظائف المذكورة تحتها."
+    },
+    {
+      "title": "الوظيفة العلاجية: وقاية أو علاج",
+      "paragraphs": [],
+      "items": [
+        "{{Préventive}} — وقائية: مثل {{Vaccination}} — التلقيح، و{{Chimioprophylaxie}} — الوقاية الدوائية.",
+        "{{Curative étiologique}} — علاج سببي: يهاجم سبب المرض.",
+        "{{Substitutive}} — تعويضية: يقدّم العنصر الناقص مثل الفيتامينات أو الإنسولين.",
+        "{{Symptomatique}} — عَرَضية: يعالج مظاهر المرض دون معالجة سببه، مثل تسريع أو إبطاء النبض أو خفض الضغط في أمثلة الدرس."
+      ]
+    },
+    {
+      "title": "الوظيفة التشخيصية",
+      "paragraphs": [
+        "{{Diagnostique}} — تشخيصية: استعمال مواد مُعتِمة أو متتبّعات أو عامل دوائي لإجراء استكشافات وظيفية. من الأمثلة {{Produits de contraste}} — مواد التباين في الأشعة؛ يذكر الدرس {{Radioselectan 16%}} في {{Urographie}} — تصوير الجهاز البولي و{{Angiographie}} — تصوير الأوعية."
+      ]
+    },
+    {
+      "title": "ثلاثة أسماء، فلا تخلط بينها",
+      "paragraphs": [
+        "{{Nom chimique}} — الاسم الكيميائي: يتبع قواعد {{IUPAC}}، وهي تسمية معقدة للاستعمال والحفظ لدى الواصفين.",
+        "{{DCI — Dénomination Commune Internationale}} — التسمية الدولية المشتركة: اسم المادة الفعالة الذي تضعه {{OMS}} — منظمة الصحة العالمية؛ ويسميه الدرس «الاسم الحقيقي للدواء».",
+        "{{Nom de spécialité / Nom de marque}} — اسم الاختصاص أو العلامة التجارية: يختاره المختبر لمادة فعالة أو لمزيج مواد، ويكون علامة مسجّلة."
+      ]
+    },
+    {
+      "title": "مثال الدرس: اقرأ الأسماء معًا",
+      "paragraphs": [
+        "الاسم الكيميائي في الشريحة: {{Hydroxy-4 acétanilide ou acétaminophène}}؛ والصيغة {{CH3-CO-NH-C6H4-OH}}. التسمية الدولية: {{Paracétamol}}. الاسمان التجاريان: {{Doliprane}} و{{Parantal}}."
+      ],
+      "note": "ملاحظة للتوضيح: نحافظ هنا على تصنيف الأسماء وصياغتها كما وردا في الشريحة 21."
+    }
+  ],
+  "animations": [
+    {
+      "type": "capsule",
+      "title": "افتح الكبسولة",
+      "caption": "الدواء = مادة فعالة تمنح الأثر الدوائي + سواغ يتيح الشكل والتحضير والحفظ والاستعمال."
+    },
+    {
+      "type": "labels",
+      "title": "ارفع الملصق واكتشف الاسم",
+      "caption": "انتقل من العلامة التجارية إلى {{DCI}} ثم الاسم الكيميائي كما ورد في مثال الدرس."
+    },
+    {
+      "type": "classify",
+      "title": "إلى أي وظيفة ينتمي المثال؟",
+      "caption": "اسحب المثال إلى وظيفته، أو اختر المثال ثم اضغط على الفئة باستعمال لوحة المفاتيح."
+    }
+  ],
+  "summary": [
+    "{{Médicament}} قد يُستعمل للعلاج أو الوقاية أو التشخيص أو تعديل الوظائف.",
+    "{{PA}} يمنح الخصائص؛ و{{Excipient}} يساعد في الشكل والتحضير والحفظ والاستعمال.",
+    "فرّق بين السببي والتعويضي والعَرَضي، وبين {{DCI}} والاسم التجاري."
+  ],
+  "sourcePages": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "originals": [
+    {
+      "page": 13,
+      "text": "13\n3- Le médicament\nToute substance ou composition présentée comme possédant des \npropriétés curatives ou préventives à l’égard des maladies \nhumaines, ainsi que tout produit pouvant être administré à l’homme \nou à l’animal en vue d’établir un diagnostic médical ou de restaurer, \ncorriger \nou \nmodifier \ndes \nfonctions \norganiques.\n3-1 Définition par la loi"
+    },
+    {
+      "page": 14,
+      "text": "14\n3-2 Composition du médicament\nPrincipe \nactif \n(PA) \nExcipient\nMedicament\nLe PA est la molécule mère du \nmédicament \ndestinée \nà \nl'action \npharmacologique souhaitée. C'est la \npartie du médicament qui lui confère \nses propriétés curatives ou préventives.\nUn excipient est une substance donner à la molécule une forme \ngalénique appropriée et doit fournir avec elle un mélange parfaitement \nhomogène.\n•\nIls permettent la préparation, la conservation et l’utilisation des \nmédicaments.\n•\nIls n’ont pas d’actions pharmacologiques, ils sont inertes."
+    },
+    {
+      "page": 15,
+      "text": "15\n3-3 Fonctions d’un médicament\nFonction \nthérapeutique\nFonction \ndiagnostique"
+    },
+    {
+      "page": 16,
+      "text": "16\nFonctions thérapeutiques\n1– Fonctions préventives\n \na- Etiologique: s’attaquer à la cause de la maladie\nb- Substitutive: il apporte l’élément manquant à \nl’organisme (vitamines, insuline)\nc- Symptomatique: il s’attaque seulement aux \nmanifestations de la maladie, sans pouvoir en \ntraiter la cause (Exemple: accélérer ou ralentir le \nrythme cardiaque, abaisser la pression artérielle).\nVaccination, chimio prophylaxies diverses\n1– Fonctions curative"
+    },
+    {
+      "page": 17,
+      "text": "17\nFonctions diagnostique\nIl peut s’agir d’opacifiant, de traceur, d’agent pharmacodynamique, \nutilisé pour réaliser des explorations fonctionnelles. \nProduits de contraste en radiologie (Radioselectan 16% utilisé en urographie et \nangiographie « radiologie des vaisseaux sanguins »).\nExemple"
+    },
+    {
+      "page": 18,
+      "text": "18\n3-4 Dénominations des médicaments\n• Le PA est caractérisé par deux dénominations, la dénomination \nscientifique et la dénomination commune internationale. \n• Le médicament au complet (PA+ excipients) est caractérisé par un \nnom commercial."
+    },
+    {
+      "page": 19,
+      "text": "19\nLe médicament est une substance chimique, la dénomination des substances chimiques \nsuit les règles de la nomenclature, fixées par l’union internationale de chimie pure et \nappliquée. Cette dénomination est très compliquée pour être utilisée et surtout être \nmémorisée par les prescripteurs.\nLe Nom Chimique\nLe Nom Chimique\n1\nDénomination Commune \nInternational (DCI)\nDénomination Commune \nInternational (DCI)\n2\nLa DCI, Dénomination Commune Internationale, est le nom international qui désigne \nla substance active contenue dans un médicament : c’est le véritable nom du \nmédicament. La DCI est établie par l’Organisation mondiale de la Santé (OMS)."
+    },
+    {
+      "page": 20,
+      "text": "20\nC’est un nom choisi par un laboratoire pharmaceutique pour un principe actif \ndonné ou un mélange de plusieurs principes actifs associés. Il s ’agit de nom de \nmarque ou de nom commercial faisant l’objet de marque déposée.\nNom de « spécialité » ou « \nnom de marque\nNom de « spécialité » ou « \nnom de marque\n3"
+    },
+    {
+      "page": 21,
+      "text": "21\nExemple:\n✓Nom Scientifique ou Chimique: Hydroxy-4 acétanilide ou acétaminophène \n(CH3-CO-NH-C6H4-OH).\n✓Dénomination Commune Internationale (DCI): Paracétamol.\n✓Nom Commercial: nom commercial ou nom de marque déposé par le \nfabricant: Doliprane, Parantal, …."
+    }
+  ]
+}

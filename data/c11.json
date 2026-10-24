@@ -1,0 +1,176 @@
+{
+  "id": "c11",
+  "partId": "p1",
+  "order": 11,
+  "titleAr": "كيف تُصنَّف الأدوية؟",
+  "titleFr": "Classement des médicaments",
+  "minutes": 22,
+  "intro": "يمكن أن يكون للدواء أكثر من تصنيف، بحسب زاوية السؤال: طريقة التحضير، أو النمط العلاجي، أو التشريع كما تعرضه الشرائح.",
+  "sections": [
+    {
+      "title": "بحسب نوع التحضير",
+      "paragraphs": [],
+      "items": [
+        "{{Médicaments officinaux}} — مستحضرات صيدلية: يعدّها الصيدلي انطلاقًا من كتاب التحضير {{Codex}}، وتُكيّف للفرد كما في الدرس.",
+        "{{Médicaments magistraux}} — مستحضرات وصفية فردية: تُحضّر انطلاقًا من وصفة الطبيب لشخص معين.",
+        "{{Laboratoire}} — مستحضرات المختبر: اختصاصات صيدلانية أو أدوية جنيسة."
+      ]
+    },
+    {
+      "title": "بحسب النمط العلاجي",
+      "paragraphs": [
+        "{{Homéopathie}} — المعالجة المثلية: يصفها الدرس بأنها طريقة تطبق قانون التشابه بمواد ذات قصد دوائي بجرعات ضعيفة أو متناهية الصغر. ويذكر أن المادة التي تُحدث أعراضًا عند سليم حساس قد تعالج مريضًا يحمل الأعراض نفسها.",
+        "{{Allopathie}} — المعالجة المضادة للأعراض: مجموعة علاجات تستخدم مواد تسمح خصائصها بمواجهة أعراض المرض."
+      ],
+      "note": "ملاحظة للتوضيح: هذا عرض لتعريفَي الشريحتين 76 و77 للمراجعة؛ لا نقدّم بهما حكمًا سريريًا على فعالية وسيلة علاجية."
+    },
+    {
+      "title": "بحسب التشريع: غير المدرجة",
+      "paragraphs": [
+        "{{Médicaments non listés}} — أدوية غير مدرجة: متاحة دون وصفة، قابلة للتعويض أو غير قابلة له."
+      ],
+      "items": [
+        "{{Médicaments conseils}} — أدوية المشورة: يقدّمها الصيدلي لمن يستشيره بشأن عَرَض، كما تصف الشريحة.",
+        "{{Médicaments grand public}} — أدوية الجمهور: تُروَّج في وسائل الإعلام ويطلبها المرضى من الصيدلي."
+      ]
+    },
+    {
+      "title": "بحسب التشريع: المدرجة",
+      "paragraphs": [
+        "{{Liste I}} و{{Liste II}} — القائمتان الأولى والثانية: مواد فعالة مصنفة {{Substances vénéneuses}} — مواد سامة، ذات مخاطر سُمّية أو ماسخة أو مسرطنة أو مطفّرة. القائمة الأولى أخطر مبدئيًا وفق الدرس.",
+        "{{Stupéfiants}} — المخدرات الدوائية: قد تؤدي إلى الإدمان؛ ويتطلب تصنيعها وبيعها واستعمالها ترخيصًا خاصًا."
+      ]
+    },
+    {
+      "title": "جدول القوائم: حسب جدول الدرس",
+      "paragraphs": [
+        "نُقل الجدول الفرنسي من صورة الشريحة 81، بما في ذلك إشارات الحواشي. هذا جدول للمراجعة كما هو في الدرس."
+      ],
+      "note": "ملاحظة للتوضيح: نُبقي عبارة «renouvelée jusqu’à 12 mois» في عمود المدة للقائمة I كما في الصورة، ونقرأها مع شرط التجديد في عمود الوصفة. لا نستنتج من الجدول تحديثًا للتشريع الحالي.",
+      "table": {
+        "lang": "fr",
+        "headers": [
+          "Liste",
+          "Ordonnance",
+          "Durée de la prescription",
+          "Quantité délivrée"
+        ],
+        "rows": [
+          [
+            "Liste I",
+            "ordonnance simple non renouvelable sauf mention contraire « à renouveler X fois »",
+            "renouvelée jusqu’à 12 mois",
+            "par fraction de 30 jours au maximum¹⁻²"
+          ],
+          [
+            "Liste II",
+            "ordonnance simple renouvelable sauf mention contraire « à ne pas renouveler »",
+            "limitée à 12 mois",
+            "par fraction de 30 jours au maximum¹ (contraceptifs 3 mois)"
+          ],
+          [
+            "Stupéfiants",
+            "ordonnance sécurisée³",
+            "de 7 à 28 jours selon la substance et la forme pharmaceutique",
+            "de 7 à 28 jours selon la prescription"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "حواشي الجدول كما في الشريحة",
+      "paragraphs": [
+        "{{1 première présentation de l’ordonnance moins de 3 mois après sa rédaction}}",
+        "{{2 cas particuliers des hypnotiques et anxiolytiques (durée de prescription limitée de 2 à 12 semaines, inclus le temps nécessaire à la diminution progressive des doses)}}",
+        "{{3 le pharmacien doit conserver une copie de l’ordonnance 3 ans et remettre l’original au patient à représenter en cas de délivrance fractionnée.}}",
+        "للفهم: الحاشية 1 تخص أول تقديم للوصفة قبل مرور 3 أشهر؛ الحاشية 2 تخص مدد المنومات ومزيلات القلق بما يشمل خفض الجرعات تدريجيًا؛ والحاشية 3 تخص حفظ نسخة 3 سنوات وإعادة الأصل للمريض عند الصرف المجزأ."
+      ]
+    },
+    {
+      "title": "الوصف المقيّد: أربعة أنظمة مسجلة في AMM",
+      "paragraphs": [],
+      "items": [
+        "{{Réservés à l’usage hospitalier}} — مخصصة للاستعمال بالمستشفى: لا تستعمل إلا فيه؛ يصفها طبيب مستشفى ويصرفها صيدلي مستشفى. تُبرَّر بخصائصها الدوائية أو جدّتها أو الصحة العمومية، وصعوبة الإعطاء أو المتابعة وخطر سوء الاستعمال وارتباطها بأمراض تعالج بالمستشفى.",
+        "{{Prescription initiale hospitalière}} — وصفة أولى بالمستشفى: الأولى من طبيب مستشفى، ويمكن لأي ممارس تجديدها. قد يحدد أجل لوصفة مستشفوية جديدة. تصرفها صيدليات المدينة، مع استثناء مضادات الفيروسات القهقرية ذات المسار المزدوج مدينة/مستشفى كما في الشريحة.",
+        "{{Surveillance particulière}} — مراقبة خاصة: الوصف والتجديد مشروطان بفحوص دورية محددة النوع والتواتر، ويُثبت إنجازها في الوصفة لمتابعة الأثر ومنع الضرر.",
+        "{{Compétence particulière}} — كفاءة خاصة: قد يقتصر الوصف أو التجديد على فئة من الممارسين المؤهلين، اختصاصيين مستشفويين أو خارج المستشفى، بسبب خطر سوء الاستعمال أو تقنية الاستخدام."
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "type": "decision",
+      "title": "هذا الدواء من أي صنف؟",
+      "caption": "اختر زاوية التصنيف ثم المعطى الموافق؛ تصل إلى الصنف مع سبب اختياره."
+    }
+  ],
+  "summary": [
+    "التصنيف قد يكون حسب التحضير أو النمط العلاجي أو التشريع.",
+    "القائمة I أخطر مبدئيًا؛ والمخدرات تتطلب ترخيصًا خاصًا في عرض الدرس.",
+    "الوصف المقيّد أربعة أنظمة؛ لا نخلط حصر الاستعمال بالمستشفى مع اشتراط الوصفة الأولى فيه فقط."
+  ],
+  "sourcePages": [
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86
+  ],
+  "originals": [
+    {
+      "page": 75,
+      "text": "75\nClassement des médicaments\nSelon le type de préparation\no\nMédicaments officinaux: préparés par un pharmacien à partir d’un « livre de \npréparation » le codex. Ils sont adaptés à l’individu. \no\nMédicaments magistraux : préparés à partir de l’ordonnance du médecin, adaptés \nà une personne. \no\nLaboratoire : spécialités pharmaceutiques/ générique"
+    },
+    {
+      "page": 76,
+      "text": "76\nSelon le mode thérapeutique type\nHoméopathie\n• L’homéopathie est une méthode thérapeutique qui met en application la loi de \nsimilitude en utilisant des substances à visée médicamenteuse à doses faibles ou \ninfinitésimales.\n• Toute substance susceptible expérimentalement de provoquer chez un individu sain \net sensible une série de symptômes est capable cliniquement de guérir un malade \nprésentant ces mêmes symptômes"
+    },
+    {
+      "page": 77,
+      "text": "77\nAllopathie\nL'allopathie désigne un ensemble de traitements médicaux qui utilisent \ndes substances dont les propriétés permettent de contrecarrer les \nsymptômes de la maladie."
+    },
+    {
+      "page": 78,
+      "text": "78\nLes médicaments non listés\nLes médicaments listés\nLes médicaments à prescription restreinte\nSelon la législation\n1\n2\n3"
+    },
+    {
+      "page": 79,
+      "text": "79\n• Ces médicaments sont en vente libre, disponibles sans ordonnance, \nremboursables ou non.\n• Il existe 2 catégories : \no Les médicaments « conseils » prescrits par les pharmaciens aux \nmalades qui demandent conseil au pharmacien à l’occasion d’un \nsymptôme.\no Les médicaments « grand public » dont la promotion est assurée \ndans les médias et qui sont demandés par les patients-clients aux \npharmaciens.\nLes médicaments non listés"
+    },
+    {
+      "page": 80,
+      "text": "80\nLes médicaments listés\n• Liste I, Liste II, les principes actifs inscrits sur ces 2 listes sont classés « substances \nvénéneuses », ils présentent des risques de divers ordres (toxique, tératogène, \ncancérogène, mutagène….).\n• Les médicaments de la Liste I ont un risque plus élevé, en principe.\n• Liste des stupéfiants, ce sont des médicaments susceptibles d’entraîner des toxicomanies.\n• La fabrication, la vente et l’usage nécessitent une autorisation spéciale."
+    },
+    {
+      "page": 81,
+      "text": "81"
+    },
+    {
+      "page": 82,
+      "text": "82\nLes médicaments à prescription restreinte\nCette classification est également inscrite dans l’AMM.\nElle comporte 4 régimes :\n1- Médicaments réservés à l’usage hospitalier\n2- Médicaments à prescription initiale hospitalière\n3- Médicaments nécessitant une surveillance particulière\n4- Médicaments nécessitant une compétence particulière"
+    },
+    {
+      "page": 83,
+      "text": "83\n1-Médicaments réservés à l’usage hospitalier\nLe médicament ne peut être utilisé qu’à l’hôpital. La prescription ne peut \nêtre que le fait d’un médecin hospitalier et la délivrance d’un pharmacien \nhospitalier.\nLa restriction est justifiée par les caractéristiques pharmacologiques, le degré \nd’innovation ou des motifs de santé publique : il s’agit essentiellement de \nmédicaments nouveaux, difficiles à administrer ou à surveiller, \ncomportant des risques de mésusage et surtout utilisés uniquement dans \ndes pathologies traitées à l’hôpital."
+    },
+    {
+      "page": 84,
+      "text": "84\n2-Médicaments à prescription initiale hospitalière\nLa première prescription doit obligatoirement être faite par un médecin \nhospitalier ; son renouvellement peut être effectué par n’importe quel \npraticien. Il peut être fixé un délai au-delà duquel une nouvelle prescription \nhospitalière est obligatoire. \nLes médicaments sont délivrés par les officines de ville (sauf les \nantirétroviraux pour lesquels il existe un double circuit, ville et hôpital)."
+    },
+    {
+      "page": 85,
+      "text": "85\n3- Médicaments nécessitant une surveillance particulière\nLa prescription et son renouvellement sont subordonnés à la réalisation \nd’examens périodiques, dont la nature et la fréquence sont précisées. \nLeur réalisation doit être attestée sur l’ordonnance. Ces examens \nconcernent le suivi des effets du traitement et la prévention d’effets nocifs."
+    },
+    {
+      "page": 86,
+      "text": "86\n4- Médicaments nécessitant une compétence particulière\nLa prescription de certains médicaments et/ou son renouvellement, \npeut être réservée à une catégorie particulière de praticiens qualifiés \n(spécialistes hospitaliers et/ou libéraux), en raison des risques de \nmésusage ou de la technicité de leur emploi."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "c9",
+  "partId": "p1",
+  "order": 9,
+  "titleAr": "البراءة والدواء الجنيس",
+  "titleFr": "Brevet et médicaments génériques",
+  "minutes": 14,
+  "intro": "الجنيس يُقارَن بدواء مرجعي وفق شروط محددة في تعريف الدرس. نميّز الجانب القانوني عن الاقتصادي وعن العلمي.",
+  "sections": [
+    {
+      "title": "براءة الاختراع: حماية محددة في الزمن والمكان",
+      "paragraphs": [
+        "{{Brevet d’invention}} — براءة اختراع: سند ملكية صناعية يحمي ابتكارًا تقنيًا، منتجًا أو طريقة، يقدّم حلًا تقنيًا لمشكلة. الحماية 20 سنة في الإقليم الذي تُمنح فيه البراءة."
+      ]
+    },
+    {
+      "title": "التعريف القانوني للجنيس في الدرس",
+      "paragraphs": [
+        "{{Générique}} — دواء جنيس: له نفس التركيب النوعي والكمي من المواد الفعالة ونفس الشكل الصيدلاني للدواء المرجعي، وثبت تكافؤه الحيوي بدراسات مناسبة للتوافر الحيوي.",
+        "المرجع المذكور في الشريحة: المادة 2 من القانون رقم {{17-04}} المتعلق بمدونة الأدوية والصيدلة، ديسمبر 2006. النص الفرنسي الكامل محفوظ أدناه."
+      ],
+      "note": "ملاحظة للتوضيح: نعرض التعريف القانوني كما يورده الدرس لأغراض المراجعة؛ لا نقدّم هنا تحديثًا تشريعيًا خارج الشرائح."
+    },
+    {
+      "title": "الشروط العلمية الثلاثة",
+      "paragraphs": [],
+      "items": [
+        "نفس المواد الفعالة نوعًا وكمًّا.",
+        "نفس {{Forme pharmaceutique}} — الشكل الصيدلاني.",
+        "إثبات {{Bioéquivalence}} — التكافؤ الحيوي، بدراسات {{Biodisponibilité}} — التوافر الحيوي."
+      ]
+    },
+    {
+      "title": "ثلاث زوايا لفهم الجنيس",
+      "paragraphs": [],
+      "items": [
+        "قانونيًا: تقول الشريحة إن الجنيس لا يوجد إلا بعد انتهاء براءة {{Princeps}} — الدواء الأصلي المرجعي؛ والجنيس غير محمي ببراءة.",
+        "اقتصاديًا: أقل سعرًا لأن الشركة لا تتحمل مصاريف البحث والتطوير المذكورة للأصلي؛ يوفّر نفقات الصحة ويحسّن الوصول إلى الأدوية.",
+        "علميًا: قابل للتبادل علاجيًا مع الأصلي؛ يحقق نفس معايير الجودة والفعالية والأمان."
+      ],
+      "note": "ملاحظة للتوضيح: عبارات البراءة وعدم تحمّل مصاريف البحث والتطوير منقولة ضمن عرض الأستاذة لخصائص الجنيس، ولا نوسّعها إلى حالات خارج سياق الدرس."
+    }
+  ],
+  "animations": [
+    {
+      "type": "generic",
+      "title": "الأصلي والجنيس وجهًا لوجه",
+      "caption": "بدّل البطاقة وقارن ما يجب أن يتطابق، ثم راجع الفرق الاقتصادي والقانوني."
+    }
+  ],
+  "summary": [
+    "البراءة: حماية ابتكار تقني لمدة 20 سنة في الإقليم الذي تُمنح فيه.",
+    "الجنيس: نفس المواد الفعالة نوعًا وكمًّا، ونفس الشكل، وتكافؤ حيوي مثبت.",
+    "معايير الجودة والفعالية والأمان نفسها وفق الدرس."
+  ],
+  "sourcePages": [
+    70,
+    71,
+    72
+  ],
+  "originals": [
+    {
+      "page": 70,
+      "text": "70\nLe brevet d'invention est un titre de propriété industrielle qui protège une \ninnovation technique. Elle peut concerner un produit ou un procédé qui \napportent une solution technique à un problème donné.\nLe titre de brevet d’invention protège l’invention pendant une durée de 20 \nans dans le territoire où le brevet est délivré."
+    },
+    {
+      "page": 71,
+      "text": "71\nDéfinition légale\nLa spécialité générique d’une spécialité de référence est une spécialité qui \na la même composition qualitative et quantitative en principes actifs et la \nmême forme pharmaceutique que la spécialité de référence, et dont la \nbioéquivalence avec cette dernière a été démontrée par des études \nappropriées de biodisponibilité. \n(Article 2, loi n°17-04 portant code du médicament et de la pharmacie (Dec.2006))."
+    },
+    {
+      "page": 72,
+      "text": "72\nCaractéristiques du générique\nJuridique\nLa spécialité générique ne peut exister que si le brevet de la spécialité princeps a expiré. \nLe générique n’est pas protégé par un brevet. \nEconomique\nLe prix d’un générique est inférieur à celui de l’original car la firme productrice n’engage \naucun frais de recherche et de développement. Le principal avantage des génériques est le \ncoût. Les génériques permettent de réaliser des économies sur les dépenses de santé et \ndonc d’améliorer l’accès de la population aux médicaments. \nScientifique\nLa spécialité générique et le princeps sont interchangeables en thérapeutique. Le \nmédicament copié remplit les mêmes critères de qualité, d’efficacité et de sécurité que le \nmédicament \"princeps\"."
+    }
+  ]
+}

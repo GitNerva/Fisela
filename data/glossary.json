@@ -1,0 +1,649 @@
+[
+  {
+    "fr": "Pharmacologie",
+    "ar": "علم الأدوية",
+    "simpleExplanationAr": "يدرس تأثيرات الدواء ومصيره في الجسم.",
+    "chapterId": "c1"
+  },
+  {
+    "fr": "Pharmaco",
+    "ar": "عقار أو علاج أو سم",
+    "simpleExplanationAr": "الجزء الأول من كلمة علم الأدوية.",
+    "chapterId": "c1"
+  },
+  {
+    "fr": "Logie",
+    "ar": "علوم",
+    "simpleExplanationAr": "الجزء الذي يدل على الدراسة العلمية.",
+    "chapterId": "c1"
+  },
+  {
+    "fr": "Thérapeutique",
+    "ar": "التدبير العلاجي",
+    "simpleExplanationAr": "اختيار وسائل العلاج بحسب خصوصية المريض.",
+    "chapterId": "c1"
+  },
+  {
+    "fr": "Pharmacothérapie",
+    "ar": "العلاج الدوائي",
+    "simpleExplanationAr": "معالجة المريض باستعمال الأدوية.",
+    "chapterId": "c1"
+  },
+  {
+    "fr": "Mécanisme d’action",
+    "ar": "آلية التأثير",
+    "simpleExplanationAr": "كيف يحدث الدواء تأثيره.",
+    "chapterId": "c1"
+  },
+  {
+    "fr": "Efficacité",
+    "ar": "الفعالية",
+    "simpleExplanationAr": "قدرة الدواء على إحداث الأثر المطلوب.",
+    "chapterId": "c1"
+  },
+  {
+    "fr": "Sécurité d’emploi",
+    "ar": "سلامة الاستعمال",
+    "simpleExplanationAr": "تقييم أمان استعمال الدواء.",
+    "chapterId": "c1"
+  },
+  {
+    "fr": "Pharmacocinétique",
+    "ar": "الحركية الدوائية",
+    "simpleExplanationAr": "فعل الجسم على الدواء: الامتصاص والتوزيع والاستقلاب والإطراح.",
+    "chapterId": "c2"
+  },
+  {
+    "fr": "Pharmacodynamie",
+    "ar": "الديناميكا الدوائية",
+    "simpleExplanationAr": "فعل الدواء على الجسم أو هدفه العلاجي.",
+    "chapterId": "c2"
+  },
+  {
+    "fr": "Pharmacovigilance",
+    "ar": "اليقظة الدوائية",
+    "simpleExplanationAr": "كشف وتقييم والوقاية من مخاطر الآثار غير المرغوبة.",
+    "chapterId": "c2"
+  },
+  {
+    "fr": "Pharmacologie clinique",
+    "ar": "علم الأدوية السريري",
+    "simpleExplanationAr": "دراسة المرشح الدوائي عند أصحاء أو مرضى ومتابعة العلاج.",
+    "chapterId": "c2"
+  },
+  {
+    "fr": "Pharmacologie fondamentale",
+    "ar": "علم الأدوية الأساسي",
+    "simpleExplanationAr": "دراسة المادة الفعالة على خلايا وأنسجة وأعضاء وحيوانات.",
+    "chapterId": "c2"
+  },
+  {
+    "fr": "Pharmacologie spéciale",
+    "ar": "علم الأدوية الخاص",
+    "simpleExplanationAr": "دراسة الفئات الدوائية وآليات تأثيرها.",
+    "chapterId": "c2"
+  },
+  {
+    "fr": "Absorption",
+    "ar": "الامتصاص",
+    "simpleExplanationAr": "إحدى مراحل مصير الدواء في الجسم.",
+    "chapterId": "c2"
+  },
+  {
+    "fr": "Distribution",
+    "ar": "التوزيع",
+    "simpleExplanationAr": "إحدى العمليات التي يدرسها فرع الحركية الدوائية.",
+    "chapterId": "c2"
+  },
+  {
+    "fr": "Métabolisme",
+    "ar": "الاستقلاب",
+    "simpleExplanationAr": "تحوّل الدواء، ضمن الحركية الدوائية.",
+    "chapterId": "c2"
+  },
+  {
+    "fr": "Excrétion",
+    "ar": "الإطراح",
+    "simpleExplanationAr": "إخراج الدواء، ضمن الحركية الدوائية.",
+    "chapterId": "c2"
+  },
+  {
+    "fr": "Médicament",
+    "ar": "دواء",
+    "simpleExplanationAr": "مادة أو تركيب للعلاج أو الوقاية أو التشخيص أو تعديل الوظائف.",
+    "chapterId": "c3"
+  },
+  {
+    "fr": "Principe actif",
+    "ar": "المادة الفعالة",
+    "simpleExplanationAr": "الجزء الذي يمنح الدواء خصائصه العلاجية أو الوقائية.",
+    "exampleFr": "Paracétamol",
+    "chapterId": "c3"
+  },
+  {
+    "fr": "Excipient",
+    "ar": "سواغ",
+    "simpleExplanationAr": "مادة يصفها الدرس بالخاملة، تتيح الشكل والحفظ والاستعمال.",
+    "chapterId": "c3"
+  },
+  {
+    "fr": "DCI",
+    "ar": "التسمية الدولية المشتركة",
+    "simpleExplanationAr": "اسم المادة الفعالة الذي تضعه منظمة الصحة العالمية.",
+    "exampleFr": "Paracétamol",
+    "chapterId": "c3"
+  },
+  {
+    "fr": "Nom de spécialité",
+    "ar": "الاسم التجاري",
+    "simpleExplanationAr": "اسم يختاره المختبر ويكون علامة مسجّلة.",
+    "exampleFr": "Doliprane, Parantal",
+    "chapterId": "c3"
+  },
+  {
+    "fr": "Étiologique",
+    "ar": "سببي",
+    "simpleExplanationAr": "يستهدف سبب المرض.",
+    "chapterId": "c3"
+  },
+  {
+    "fr": "Substitutive",
+    "ar": "تعويضية",
+    "simpleExplanationAr": "توفّر العنصر الناقص في الجسم.",
+    "exampleFr": "Vitamines, insuline",
+    "chapterId": "c3"
+  },
+  {
+    "fr": "Symptomatique",
+    "ar": "عَرَضية",
+    "simpleExplanationAr": "تعالج مظاهر المرض دون معالجة سببه.",
+    "chapterId": "c3"
+  },
+  {
+    "fr": "Préventive",
+    "ar": "وقائية",
+    "simpleExplanationAr": "تهدف إلى الوقاية كما في التلقيح.",
+    "chapterId": "c3"
+  },
+  {
+    "fr": "Diagnostique",
+    "ar": "تشخيصية",
+    "simpleExplanationAr": "تساعد على إجراء تشخيص أو استكشاف.",
+    "chapterId": "c3"
+  },
+  {
+    "fr": "Nom chimique",
+    "ar": "الاسم الكيميائي",
+    "simpleExplanationAr": "اسم يتبع قواعد التسمية الكيميائية.",
+    "chapterId": "c3"
+  },
+  {
+    "fr": "Ordonnance",
+    "ar": "وصفة طبية",
+    "simpleExplanationAr": "وثيقة مكتوبة يحررها مهني صحي مخوّل.",
+    "chapterId": "c4"
+  },
+  {
+    "fr": "Posologie",
+    "ar": "نظام الجرعات",
+    "simpleExplanationAr": "كيفية تنظيم تناول الدواء كما تُذكر في الوصفة.",
+    "chapterId": "c4"
+  },
+  {
+    "fr": "Dosage",
+    "ar": "قوة المستحضر",
+    "simpleExplanationAr": "قوة الدواء التي يجب تدوينها بوضوح.",
+    "exampleFr": "50 mg, 100 mg, 500 mg",
+    "chapterId": "c4"
+  },
+  {
+    "fr": "Prescripteur",
+    "ar": "الواصف",
+    "simpleExplanationAr": "المهني الصحي المخوّل بتحرير الوصفة.",
+    "chapterId": "c4"
+  },
+  {
+    "fr": "Durée du traitement",
+    "ar": "مدة العلاج",
+    "simpleExplanationAr": "الفترة المقررة للعلاج والمذكورة في الوصفة.",
+    "chapterId": "c4"
+  },
+  {
+    "fr": "Phytothérapie",
+    "ar": "التداوي بالنبات",
+    "simpleExplanationAr": "استعمال النباتات أو مستخلصاتها في العلاج.",
+    "chapterId": "c5"
+  },
+  {
+    "fr": "Hémisynthèse",
+    "ar": "نصف اصطناع",
+    "simpleExplanationAr": "تعديل مادة طبيعية بوسائل كيميائية.",
+    "chapterId": "c5"
+  },
+  {
+    "fr": "Synthèse totale",
+    "ar": "اصطناع كلي",
+    "simpleExplanationAr": "إنتاج بوسائل الاصطناع الكيميائي.",
+    "chapterId": "c5"
+  },
+  {
+    "fr": "Biogénétique",
+    "ar": "الأصل البيوجيني",
+    "simpleExplanationAr": "إنتاج مواد علاجية بخلايا حية بعد نقل مورثة.",
+    "chapterId": "c5"
+  },
+  {
+    "fr": "Insuline recombinante",
+    "ar": "الإنسولين المؤتلف",
+    "simpleExplanationAr": "بروتين علاجي تنتجه خلايا بالهندسة الوراثية.",
+    "chapterId": "c5"
+  },
+  {
+    "fr": "EPO",
+    "ar": "إريثروبويتين",
+    "simpleExplanationAr": "مثال بروتين علاجي يستعمل لفقر الدم في الدرس.",
+    "chapterId": "c5"
+  },
+  {
+    "fr": "GH",
+    "ar": "هرمون النمو",
+    "simpleExplanationAr": "مثال بروتين علاجي من الهندسة الوراثية.",
+    "chapterId": "c5"
+  },
+  {
+    "fr": "Cellule hôte",
+    "ar": "خلية مضيفة",
+    "simpleExplanationAr": "الخلية التي تستقبل المورثة وتنتج البروتين.",
+    "chapterId": "c5"
+  },
+  {
+    "fr": "Voie d’administration",
+    "ar": "طريق الإعطاء",
+    "simpleExplanationAr": "موضع إدخال الدواء إلى الجسم.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Voie entérale",
+    "ar": "الطريق المعوي",
+    "simpleExplanationAr": "إعطاء الدواء عبر الأنبوب الهضمي.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Voie parentérale",
+    "ar": "الطريق الحقني",
+    "simpleExplanationAr": "إعطاء بحقنة مع اختراق الجلد.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Per os",
+    "ar": "عن طريق البلع",
+    "simpleExplanationAr": "يُبتلع الدواء عبر الفم.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Voie sublinguale/buccale",
+    "ar": "الطريق تحت اللسان أو الفموي المخاطي",
+    "simpleExplanationAr": "امتصاص عبر مخاطية الفم بدل البلع في وصف الطريق الفموي المخاطي.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Voie rectale",
+    "ar": "الطريق الشرجي",
+    "simpleExplanationAr": "إعطاء الدواء عبر المستقيم.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Voie transdermique",
+    "ar": "الطريق عبر الجلد",
+    "simpleExplanationAr": "إعطاء عبر الجلد بقصد أثر عام.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Intradermique",
+    "ar": "داخل الأدمة",
+    "simpleExplanationAr": "ID؛ زاوية رسم الدرس 10–15°.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Sous-cutanée",
+    "ar": "تحت الجلد",
+    "simpleExplanationAr": "SC؛ زاوية رسم الدرس 45°.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Intramusculaire",
+    "ar": "داخل العضل",
+    "simpleExplanationAr": "IM؛ زاوية رسم الدرس 90°.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Intraveineuse",
+    "ar": "داخل الوريد",
+    "simpleExplanationAr": "IV؛ زاوية رسم الدرس 25°.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Biodisponibilité",
+    "ar": "التوافر الحيوي",
+    "simpleExplanationAr": "من معايير اختيار الطريق، ويُستعمل في دراسات التكافؤ الحيوي.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Observance",
+    "ar": "الالتزام بالعلاج",
+    "simpleExplanationAr": "اتباع العلاج، وهو من معايير اختيار الطريق.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Forme galénique",
+    "ar": "الشكل الصيدلاني",
+    "simpleExplanationAr": "الصورة التي يُقدّم بها الدواء لتلائم طريق إعطائه.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Comprimé",
+    "ar": "قرص",
+    "simpleExplanationAr": "جرعة صلبة تُحضّر بضغط مزيج مسحوق.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Gélule",
+    "ar": "كبسولة صلبة",
+    "simpleExplanationAr": "نصفا غلاف جيلاتيني متداخلان يحويان مسحوقًا جافًا.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Sirop",
+    "ar": "شراب",
+    "simpleExplanationAr": "مستحضر مائي محلى ولزج.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Suspension",
+    "ar": "معلّق",
+    "simpleExplanationAr": "مسحوق غير ذائب مبعثر في سائل.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Émulsion",
+    "ar": "مستحلب",
+    "simpleExplanationAr": "مزيج من سائلين غير ممتزجين.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Collyre",
+    "ar": "قطرة عينية",
+    "simpleExplanationAr": "شكل دوائي للاستعمال العيني.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Suppositoire",
+    "ar": "تحميلة",
+    "simpleExplanationAr": "شكل دوائي للاستعمال الشرجي.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Patch",
+    "ar": "لصقة عبر الجلد",
+    "simpleExplanationAr": "نظام عبر الجلد لأثر جهازي في الدرس.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "LP",
+    "ar": "تحرّر مطوّل",
+    "simpleExplanationAr": "Libération prolongée: نمط تحرر مذكور للأقراص والكبسولات.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Apyrogénicité",
+    "ar": "الخلو من مولدات الحمى",
+    "simpleExplanationAr": "من خصائص المحاليل الحقنية.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Isotonicité",
+    "ar": "تساوي التوتر",
+    "simpleExplanationAr": "إحدى خصائص المحاليل الحقنية المذكورة.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Granulés",
+    "ar": "حبيبات",
+    "simpleExplanationAr": "حبيبات صغيرة غير منتظمة تُعطى كما يحدده الشكل.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Poudre",
+    "ar": "مسحوق",
+    "simpleExplanationAr": "يوضع في أكياس جرعات أو قوارير متعددة الجرعات.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Préclinique",
+    "ar": "قبل سريري",
+    "simpleExplanationAr": "تقييم يسبق الإعطاء للإنسان لفهم الفعل والفعالية والسمية.",
+    "chapterId": "c8"
+  },
+  {
+    "fr": "DMT",
+    "ar": "الجرعة القصوى المتحمّلة",
+    "simpleExplanationAr": "إضافة للتوضيح: Dose maximale tolérée؛ الاختصار مذكور دون بسط في الشرائح.",
+    "chapterId": "c8"
+  },
+  {
+    "fr": "Tératogène",
+    "ar": "ماسخ",
+    "simpleExplanationAr": "إضافة للتوضيح: قد يسبب تشوهات جنينية؛ يذكر ضمن مخاطر التقييم قبل السريري.",
+    "chapterId": "c8"
+  },
+  {
+    "fr": "Mutagène",
+    "ar": "مطفّر",
+    "simpleExplanationAr": "إضافة للتوضيح: قد يسبب تغيرات وراثية؛ يذكر ضمن المخاطر.",
+    "chapterId": "c8"
+  },
+  {
+    "fr": "Cancérigène",
+    "ar": "مسرطن",
+    "simpleExplanationAr": "إضافة للتوضيح: قد يسبب السرطان؛ يذكر ضمن المخاطر.",
+    "chapterId": "c8"
+  },
+  {
+    "fr": "AMM",
+    "ar": "ترخيص الطرح في السوق",
+    "simpleExplanationAr": "قرار يسبقه تقييم الجودة والأمان والفعالية.",
+    "chapterId": "c8"
+  },
+  {
+    "fr": "Phase I",
+    "ar": "المرحلة الأولى",
+    "simpleExplanationAr": "الأمان والمصير والسمية وDMT عند بضع عشرات من الأصحاء.",
+    "chapterId": "c8"
+  },
+  {
+    "fr": "Phase II",
+    "ar": "المرحلة الثانية",
+    "simpleExplanationAr": "الفعالية والمأمونية وتحسين الجرعة عند 150–350 مريضًا.",
+    "chapterId": "c8"
+  },
+  {
+    "fr": "Phase III",
+    "ar": "المرحلة الثالثة",
+    "simpleExplanationAr": "تأكيد الفعالية والأمان عند عدة آلاف من المرضى.",
+    "chapterId": "c8"
+  },
+  {
+    "fr": "Phase IV",
+    "ar": "المرحلة الرابعة",
+    "simpleExplanationAr": "المتابعة واليقظة الدوائية بعد التسويق.",
+    "chapterId": "c8"
+  },
+  {
+    "fr": "CCP",
+    "ar": "شهادة حماية تكميلية",
+    "simpleExplanationAr": "يظهر في الخط الزمني حد أقصى إضافي قدره 5 سنوات.",
+    "chapterId": "c8"
+  },
+  {
+    "fr": "Brevet",
+    "ar": "براءة اختراع",
+    "simpleExplanationAr": "سند ملكية صناعية يحمي ابتكارًا تقنيًا 20 سنة في إقليم منحه.",
+    "chapterId": "c9"
+  },
+  {
+    "fr": "Princeps",
+    "ar": "الدواء الأصلي المرجعي",
+    "simpleExplanationAr": "الاختصاص المرجعي الذي يُقارن به الجنيس.",
+    "chapterId": "c9"
+  },
+  {
+    "fr": "Générique",
+    "ar": "دواء جنيس",
+    "simpleExplanationAr": "نفس المواد الفعالة ونفس الشكل وتكافؤ حيوي مثبت.",
+    "chapterId": "c9"
+  },
+  {
+    "fr": "Bioéquivalence",
+    "ar": "التكافؤ الحيوي",
+    "simpleExplanationAr": "شرط يُثبت بدراسات مناسبة للتوافر الحيوي في تعريف الجنيس.",
+    "chapterId": "c9"
+  },
+  {
+    "fr": "Interaction médicamenteuse",
+    "ar": "تداخل دوائي",
+    "simpleExplanationAr": "تغير أثر دواء بسبب إعطاء دواء آخر معه أو بعده.",
+    "chapterId": "c10"
+  },
+  {
+    "fr": "Synergie",
+    "ar": "تآزر",
+    "simpleExplanationAr": "في التآزر الجمعي تُضاف الآثار حسابيًا.",
+    "chapterId": "c10"
+  },
+  {
+    "fr": "Potentialisation",
+    "ar": "تقوية",
+    "simpleExplanationAr": "الأثر المجمع أكبر من الجمع الحسابي البسيط.",
+    "chapterId": "c10"
+  },
+  {
+    "fr": "Antagonisme",
+    "ar": "تضاد",
+    "simpleExplanationAr": "انخفاض أثر دواء أو اختفاؤه بسبب دواء آخر.",
+    "chapterId": "c10"
+  },
+  {
+    "fr": "Automédication",
+    "ar": "تداوٍ ذاتي",
+    "simpleExplanationAr": "المشاركة العرضية المذكورة في الدرس.",
+    "chapterId": "c10"
+  },
+  {
+    "fr": "Xénobiotique",
+    "ar": "مادة غريبة عن الجسم",
+    "simpleExplanationAr": "إضافة للتوضيح: شرح لغوي للمصطلح المذكور في سياق المشاركة.",
+    "chapterId": "c10"
+  },
+  {
+    "fr": "Stupéfiant",
+    "ar": "مخدر دوائي",
+    "simpleExplanationAr": "قد يسبب الإدمان ويستلزم ترخيصًا خاصًا في الدرس.",
+    "chapterId": "c11"
+  },
+  {
+    "fr": "Liste I",
+    "ar": "القائمة الأولى",
+    "simpleExplanationAr": "مواد سامة ذات خطر أعلى مبدئيًا حسب الدرس.",
+    "chapterId": "c11"
+  },
+  {
+    "fr": "Liste II",
+    "ar": "القائمة الثانية",
+    "simpleExplanationAr": "إحدى قائمتي المواد السامة في التصنيف المعروض.",
+    "chapterId": "c11"
+  },
+  {
+    "fr": "Officinal",
+    "ar": "مستحضر صيدلي",
+    "simpleExplanationAr": "يُعدّه الصيدلي اعتمادًا على Codex كما في الدرس.",
+    "chapterId": "c11"
+  },
+  {
+    "fr": "Magistral",
+    "ar": "مستحضر وصفي فردي",
+    "simpleExplanationAr": "يُحضّر حسب وصفة طبيب لشخص معين.",
+    "chapterId": "c11"
+  },
+  {
+    "fr": "Prescription restreinte",
+    "ar": "وصف مقيّد",
+    "simpleExplanationAr": "أربعة أنظمة مسجلة في ترخيص الطرح في السوق.",
+    "chapterId": "c11"
+  },
+  {
+    "fr": "Homéopathie",
+    "ar": "معالجة مثلية",
+    "simpleExplanationAr": "يصفها الدرس بقانون التشابه وجرعات ضعيفة أو متناهية الصغر.",
+    "chapterId": "c11"
+  },
+  {
+    "fr": "Allopathie",
+    "ar": "معالجة مضادة للأعراض",
+    "simpleExplanationAr": "تعريف الدرس: مواد تواجه أعراض المرض.",
+    "chapterId": "c11"
+  },
+  {
+    "fr": "Pharmacologie générale",
+    "ar": "علم الأدوية العام",
+    "simpleExplanationAr": "يدرس المبادئ العامة للتفاعل بين الأدوية والكائنات الحية.",
+    "chapterId": "c2"
+  },
+  {
+    "fr": "Effets indésirables",
+    "ar": "الآثار غير المرغوبة",
+    "simpleExplanationAr": "آثار يختص بكشفها والوقاية منها فرع اليقظة الدوائية.",
+    "chapterId": "c2"
+  },
+  {
+    "fr": "Épiderme",
+    "ar": "البشرة",
+    "simpleExplanationAr": "الطبقة السطحية المسمّاة في رسم زوايا الحقن.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Derme",
+    "ar": "الأدمة",
+    "simpleExplanationAr": "الطبقة المسمّاة في الطريق داخل الأدمة ID.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Muscle",
+    "ar": "عضل",
+    "simpleExplanationAr": "النسيج الذي يشير إليه الطريق العضلي IM في الرسم.",
+    "chapterId": "c6"
+  },
+  {
+    "fr": "Stérilité",
+    "ar": "التعقيم",
+    "simpleExplanationAr": "خاصية لازمة للمحاليل الحقنية في الدرس.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Neutralité",
+    "ar": "التعادل",
+    "simpleExplanationAr": "إحدى خصائص المحاليل الحقنية الخمس.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Limpidité",
+    "ar": "الصفاء",
+    "simpleExplanationAr": "إحدى خصائص المحاليل الحقنية الخمس.",
+    "chapterId": "c7"
+  },
+  {
+    "fr": "Innocuité",
+    "ar": "المأمونية",
+    "simpleExplanationAr": "سلامة الاستعمال التي تُقيّم خلال التجارب السريرية.",
+    "chapterId": "c8"
+  }
+]

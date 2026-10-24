@@ -1,0 +1,187 @@
+{
+  "id": "c6",
+  "partId": "p1",
+  "order": 6,
+  "titleAr": "طرق إعطاء الدواء",
+  "titleFr": "Voies d’administration",
+  "minutes": 25,
+  "intro": "الطريق هو موضع إدخال الدواء إلى الجسم. نفهم علاقته بالشكل الصيدلاني، ثم نتابع مسار الدواء ونقارن طرق الحقن كما في رسوم الدرس.",
+  "sections": [
+    {
+      "title": "تعريف الطريق وما الذي يحدّده",
+      "paragraphs": [
+        "{{Voie d’administration}} — طريق الإعطاء: موضع محدد من الجسم يُدخل منه الدواء لإحداث آثار علاجية. تعتمد الطرق أساسًا على {{Forme galénique}} — الشكل الصيدلاني للدواء."
+      ]
+    },
+    {
+      "title": "تأثير موضعي أو جهازي",
+      "paragraphs": [
+        "{{Locale}} — موضعية: يذكر المخطط الطرق الجلدية والأنفية والتنفسية والعينية والأذنية والمهبلية. {{Systémique}} — جهازية: يضع المخطط تحتها الطرق المعوية والحقنية."
+      ],
+      "note": "ملاحظة للتوضيح: تُظهر شرائح الطريق الجلدي المخاطي أن الاستعمال قد يكون موضعيًا أو عامًا؛ لذلك نقرأ التصنيف الأول مع التفصيل، ولا نحكم على الأثر من اسم الموضع وحده."
+    },
+    {
+      "title": "الطريق المعوي: عبر الأنبوب الهضمي",
+      "paragraphs": [
+        "{{Voie entérale}} — الطريق المعوي: إعطاء الدواء بواسطة الأنبوب الهضمي."
+      ],
+      "items": [
+        "الطريق العلوي: {{Voie buccale}} — فموي مخاطي، تنتشر المادة الفعالة عبر مخاطية الفم؛ و{{Voie orale / Per os}} — فموي بالبلع، يُبتلع فيه الدواء.",
+        "الطريق السفلي: {{Voie rectale}} — شرجي عبر المستقيم، ومن أمثلته {{Suppositoires}} — التحاميل."
+      ]
+    },
+    {
+      "title": "الطريق الحقني: عبور حاجز الجلد",
+      "paragraphs": [
+        "{{Voie parentérale}} — الطريق الحقني: إدخال العلاج بحقنة مع اختراق الجلد. تستعمل أداة طبية معقمة مثل إبرة مع محقنة أو قثطار."
+      ],
+      "items": [
+        "{{Intradermique (ID)}} — داخل الأدمة؛ {{Sous-cutanée (SC)}} — تحت الجلد.",
+        "{{Intramusculaire (IM)}} — داخل العضل؛ {{Intraveineuse (IV)}} — داخل الوريد.",
+        "{{Intravasculaire}} — داخل وعاء؛ {{Intracardiaque}} — داخل القلب؛ {{Intra-artérielle}} — داخل الشريان؛ {{Épidurale}} — فوق الجافية."
+      ]
+    },
+    {
+      "title": "زوايا رسم الحقن",
+      "paragraphs": [
+        "حسب شكل الشريحة 36: {{IM}} بزاوية 90°، و{{SC}} بزاوية 45°، و{{IV}} بزاوية 25°، و{{ID}} بزاوية 10–15°. طبقات الرسم: {{Épiderme}} — البشرة، {{Derme}} — الأدمة، {{Tissu sous-cutané}} — النسيج تحت الجلد، ثم {{Muscle}} — العضل."
+      ],
+      "note": "ملاحظة للتوضيح: يعيد التفاعل تبسيط رسم الدرس؛ الزاوية وحدها لا تحدد عمق الحقن. الرسم وسيلة لحفظ الشريحة وليس تدريبًا عمليًا على إجراء الحقن."
+    },
+    {
+      "title": "الطريق الجلدي المخاطي",
+      "paragraphs": [
+        "{{Voie cutanéomuqueuse}} — عبر الجلد أو المخاطيات أو الأغشية؛ يمكن أن يقصد أثرًا موضعيًا أو جهازيًا. يشمل الجلد، وعبر الجلد، والأذن، والعين، والرئة، والأنف، والمهبل.",
+        "{{Patchs}} — لصقات، {{Gels}} — هلامات، {{Crèmes}} — كريمات، {{Pommades}} — مراهم، {{Lotions}} — مستحضرات سائلة جلدية، {{Collyres}} — قطرات عينية، و{{Sprays}} — بخاخات: أمثلة الأشكال المذكورة."
+      ]
+    },
+    {
+      "title": "المزايا والحدود في جدول الدرس",
+      "paragraphs": [],
+      "note": "ملاحظة للتوضيح: عبارة «Inconvenable aux produits lipidiques» منقولة كما هي في الشريحة 37؛ يذكر الدرس لاحقًا مستحلبات حقنية للتغذية الوريدية. نحفظ صياغة الجدول ولا نعمّمها خارج سياقه.",
+      "table": {
+        "headers": [
+          "الطريق",
+          "المزايا",
+          "الحدود"
+        ],
+        "rows": [
+          [
+            "المعوي — Voie entérale",
+            "آمن، متاح، اقتصادي",
+            "احتمال تخرّب الدواء؛ امتصاص محدود"
+          ],
+          [
+            "الوريدي — Voie parentérale (IV)",
+            "أثر فوري؛ حالة الاستعجال؛ مواد ذات وزن جزيئي كبير",
+            "غير ملائم للمواد الدهنية؛ ضرورة اللاتلوث والتعقيم"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "تتبّع مسار الدواء في الرسم",
+      "paragraphs": [
+        "{{Per os}} — بالبلع: الأنبوب الهضمي ← {{Veine porte}} — الوريد البابي ← {{Foie}} — الكبد ← {{Système cave}} — الجهاز الوريدي الأجوف ← {{Cœur}} — القلب ← {{Poumon}} — الرئة ← {{Aorte}} — الأبهر.",
+        "الطريق تحت اللسان {{Sublinguale}} والشرجي عبر {{Veine hémorroïdale inférieure}} يتجاوزان الكبد جزئيًا في قراءة الرسم. الوريدي يدخل مباشرة إلى الجهاز الوريدي. وتصل الطرق تحت الجلد والعضلية وعبر الجلد إلى الجهاز الأجوف؛ ويبدأ {{Inhalation}} — الاستنشاق من الرئة."
+      ],
+      "note": "ملاحظة للتوضيح: مسارات المخطط مبسّطة، ويعرض التفاعل فرع التجاوز للشرجي؛ لا يعني ذلك أن كل الامتصاص الشرجي يتجاوز الكبد."
+    },
+    {
+      "title": "كيف نختار الطريق؟",
+      "paragraphs": [],
+      "items": [
+        "ما يرتبط بالدواء: الخواص الفيزيائية والكيميائية، {{Biodisponibilité}} — التوافر الحيوي، الفعالية، الآثار غير المرغوبة، الأشكال المتاحة، التداخلات، والتكلفة.",
+        "ما يرتبط بالشخص: العمر، الأمراض، الحالة النفسية، {{Observance}} — الالتزام بالعلاج، والتقبّل.",
+        "ما يرتبط بالفعل المطلوب: موضعي أو عام.",
+        "ما يرتبط بالظروف: الاستعجال، الأحجام الكبيرة، ومواضع الإعطاء الدقيقة."
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "type": "injection",
+      "title": "استكشف رسم زوايا الحقن",
+      "caption": "حرّك مؤشر الزاوية أو المحقنة؛ يظهر الطريق والطبقة في رسم الدرس المبسّط."
+    },
+    {
+      "type": "routes",
+      "title": "رحلة الدواء داخل الجسم",
+      "caption": "اختر طريقًا ثم شغّل النقطة. اقرأ أسماء الأعضاء بالفرنسية ومعناها بالعربية."
+    }
+  ],
+  "summary": [
+    "{{Entérale}} عبر الأنبوب الهضمي، و{{Parentérale}} بالحقن مع اختراق الجلد.",
+    "زوايا الشكل: IM 90°، SC 45°، IV 25°، ID 10–15°.",
+    "اختيار الطريق يجمع خصائص الدواء والشخص والأثر المطلوب والظروف."
+  ],
+  "sourcePages": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "originals": [
+    {
+      "page": 29,
+      "text": "29\n•\nLa voie d'administration est un endroit \nprécis du corps par le quel le médicament \nest introduit dans l'organisme pour donner \ndes effets thérapeutiques.\n•\nLes \nvoies \nd'administration \nsont \nessentiellement fonction de la forme \ngalénique du médicament."
+    },
+    {
+      "page": 30,
+      "text": "30\nLocale\nSystémique\nVoie parentérale\nVoie entérale\n7- Les voies d'administrations des médicaments\n• Voie cutanée\n• Voie nasale et respiratoire\n• Voie oculaire\n• Voie auriculaire\n• Voie vaginale"
+    },
+    {
+      "page": 31,
+      "text": "31\nA- Voie entérale\nL'administration de médicaments par voie entérale se fait par \nl'intermédiaire du tube digestif.\nVoie entérale\nVoie buccale \nVoie orale\nVoie rectale"
+    },
+    {
+      "page": 32,
+      "text": "32\nPar voie haute \n✓la voie buccale, le principe actif diffuse à travers \nla muqueuse de la bouche. \n✓la voie orale (avalables ou Per os), le \nmédicament est avalé par la bouche. \nPar voie basse\n         La voie rectale, par le rectum. \nExemples de formes galéniques : \nsuppositoires.\nA- Voie entérale"
+    },
+    {
+      "page": 33,
+      "text": "33\nLa voie parentérale correspond à la voie \nd’administration de thérapeutiques au \nmoyen d’une injections, par le biais \nd’une effraction cutanée.\nB-Voie parentérale"
+    },
+    {
+      "page": 34,
+      "text": "34\nVoie \nparentérale\nIntradermique\nSous cutanée\nIntramusculaire\nIntraveineux\nIntravasculaire\nIntracardiaque\nIntra artériel\nEpidural"
+    },
+    {
+      "page": 35,
+      "text": "35"
+    },
+    {
+      "page": 36,
+      "text": "36\nNB : Administration IV, IM, SC, ID\nLe PA est injecté à travers la peau à l’aide d’un dispositif médical Stérile (aiguille + seringue/ cathéter…)"
+    },
+    {
+      "page": 37,
+      "text": "37\nAvantages\nInconvénients\nVoie entérale\n•\nSure\n•\nAccessible\n•\nÉconomique\n•\nPotentielle dégradation du \nmédicament\n•\nAbsorption limitée\nVoie parentérale \n(IV)\n•\nEffet immédiate\n•\nUrgence\n•\nProduits de grand poids moléculaire\n•\nInconvenable aux produits \nlipidiques\n•\nAsepsie et stérilisation"
+    },
+    {
+      "page": 38,
+      "text": "38\no D'une manière générale, une administration par voie cutanéomuqueuse désigne une \nabsorption par la peau, les muqueuses ou les membranes. Ces voies peuvent être \nutilisées pour des traitements à visée locale ou générale (systémique).\nC- Voie cutanéomuqueuse\nVoie cutanée\nVoie transdermique\nVoie auriculaire\nVoie nasale\nVoie pulmonaire\nVoie ophtalmique\nVoie vaginale"
+    },
+    {
+      "page": 39,
+      "text": "39\no Les médicaments administrables par cette voie sont les patchs, les gels, les crèmes, \nles pommades, les lotions, les collyres, les sprays…….\nC- Voie cutanéomuqueuse"
+    },
+    {
+      "page": 40,
+      "text": "40"
+    },
+    {
+      "page": 41,
+      "text": "41\nA-Liés aux médicaments : propriétés physico-chimiques, biodisponibilité et \nefficacité, \neffets \nindésirables, \nformes \ngaléniques \ndisponibles, \ninteractions \nmédicamenteuse et coût.\nB- Liés au sujet : âge, pathologies, état psychique, observance et acceptabilité.\nC- Liés au type d’action souhaitée : locale ou généralisée.\nD-Liés aux circonstances d’administration : urgence, volumes importants et points \nd’administration précis.\nCritères de choix d’une voie d’administration"
+    }
+  ]
+}

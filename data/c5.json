@@ -1,0 +1,104 @@
+{
+  "id": "c5",
+  "partId": "p1",
+  "order": 5,
+  "titleAr": "من أين تأتي الأدوية؟",
+  "titleFr": "Origine des médicaments",
+  "minutes": 15,
+  "intro": "بعض المواد من الطبيعة، وبعضها يُصنّع كيميائيًا، وبعضها تُنتجه خلايا بعد نقل مورثة إليها. اربط كل أصل بأمثلة الدرس.",
+  "sections": [
+    {
+      "title": "الأصل الطبيعي النباتي",
+      "paragraphs": [
+        "{{Origine végétale}} — أصل نباتي: استعمال النبات كاملًا مثل {{Tisanes}} — المنقوعات، أو مستخلصاته مثل {{Huiles essentielles}} — الزيوت الأساسية. {{Phytothérapie}} هي التداوي بالنبات.",
+        "من المواد الفعالة: {{Alcaloïdes}} — القلويدات، مثل {{Quinine}} و{{Morphine}}؛ و{{Hétérosides}} — الغليكوزيدات، مثل {{Digitaline}}."
+      ]
+    },
+    {
+      "title": "الأصل الطبيعي الحيواني",
+      "paragraphs": [
+        "{{Origine animale}} — أصل حيواني: الدم والبلازما البشرية، والأمصال العلاجية البشرية أو الحيوانية، والمواد المستخلصة مثل بعض الهرمونات والإنزيمات.",
+        "أمثلة الدرس: {{Insuline}} — إنسولين مستخلص من البنكرياس، هرمون مضاد للسكري؛ و{{Héparine}} — هيبارين مضاد للتخثر مستخلص من الرئتين."
+      ],
+      "note": "ملاحظة للتوضيح: هذه أمثلة الأصل بالاستخلاص كما وردت في الشريحة؛ يذكر الدرس أيضًا الإنسولين المؤتلف ضمن الأصل البيوجيني، فلا نخلط الطريقتين."
+    },
+    {
+      "title": "الأصل الطبيعي المعدني",
+      "paragraphs": [
+        "{{Origine minérale}} — أصل معدني: مواد تُستعمل كمادة فعالة أو سواغ، مثل الماء والطين والبيكربونات واليود والفضة وكلوريد الصوديوم."
+      ],
+      "note": "ملاحظة للتوضيح: تحتفظ الشريحة 26 بصيغتي «bicarbonate de Ca+» و«chlorure de Na+»؛ نعرض النص الأصلي دون تحويلهما إلى صيغ كيميائية مستنتجة."
+    },
+    {
+      "title": "الأصل الاصطناعي: كلي أو نصف اصطناعي",
+      "paragraphs": [
+        "{{Synthèse totale}} — اصطناع كلي: بناء كيميائي؛ أمثلة الدرس {{Barbituriques (Phénobarbital)}} و{{Sulfamides}}.",
+        "{{Hémisynthèse}} — نصف اصطناع: تعديل مادة طبيعية في المختبر بوسائل كيميائية. مثال الدرس البنسلينات نصف الاصطناعية انطلاقًا من حمض {{Acide amino-6-pénicillinique}} المستخلص من زرع {{Penicillium}}."
+      ]
+    },
+    {
+      "title": "الأصل البيوجيني: خلية تُنتج البروتين",
+      "paragraphs": [
+        "{{Biogénétique / Génie génétique}} — إنتاج باستعمال الهندسة الوراثية: خلايا حية بدائية أو حقيقية النواة تنتج مواد عديدة الببتيد لها خصائص نموذجها البشري."
+      ],
+      "items": [
+        "عزل {{Gène d’intérêt}} — مورثة ذات اهتمام.",
+        "نقل المورثة إلى {{Cellule hôte}} — خلية مضيفة.",
+        "جعل الخلية تنتج {{Protéine thérapeutique}} — بروتينًا علاجيًا.",
+        "استعمال البروتين الناتج كدواء."
+      ]
+    },
+    {
+      "title": "أمثلة نحفظها مع الاستعمال المذكور",
+      "paragraphs": [
+        "{{Insuline recombinante}} — الإنسولين المؤتلف: لعلاج السكري. {{Hormone de croissance (GH)}} — هرمون النمو. {{Érythropoïétine (EPO)}} — إريثروبويتين: لعلاج فقر الدم."
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "type": "origins",
+      "title": "ثلاث عائلات للأصل",
+      "caption": "اكشف الأصل الطبيعي والاصطناعي والبيوجيني مع الأمثلة."
+    },
+    {
+      "type": "gene",
+      "title": "من المورثة إلى الدواء",
+      "caption": "أربع خطوات متتالية: عزل المورثة، نقلها، إنتاج البروتين، ثم استعماله كدواء."
+    }
+  ],
+  "summary": [
+    "الأصل الطبيعي: نباتي أو حيواني أو معدني.",
+    "{{Synthèse totale}} تختلف عن {{Hémisynthèse}} التي تبدأ من مادة طبيعية.",
+    "الهندسة الوراثية تجعل خلية مضيفة تنتج بروتينًا علاجيًا."
+  ],
+  "sourcePages": [
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "originals": [
+    {
+      "page": 24,
+      "text": "24\n6- Origine des médicaments\nNaturelle\n1\nA-Médicament d'origine végétale\no L’utilisation des plantes en thérapeutique (phytothérapie) est très ancienne et \nconnaît actuellement un regain d’intérêt. \no Il est possible d’utiliser les plantes entières (tisanes) ou les produits d’extraction \nqu’elles fournissent (huiles essentielles). \no Beaucoup de principes actifs utilisés en thérapeutique sont extraits des plantes : \nalcaloïdes (quinine, Morphine), hétérosides (Digitaline)."
+    },
+    {
+      "page": 25,
+      "text": "25\nNaturelle\n1\n• Médicament d'origine animale: sang et plasmas humains, sérums thérapeutiques \nhumains ou animaux, principes actifs obtenus par extraction (hormones et enzymes \nessentiellement):        \n✓Insuline (hormone antidiabétique extraite du pancréas) \n✓Héparine: médicament anticoagulant extrait des poumons"
+    },
+    {
+      "page": 26,
+      "text": "26\nNaturelle\n1\nMédicament d'origine minérale : utilisé comme principes actifs ou excipients: eau,\nargiles, bicarbonate de Ca+, iode, argent, chlorure de Na+"
+    },
+    {
+      "page": 27,
+      "text": "27\nSynthétique ou artificielle\n2\nSynthèse totale\n           Par synthèse chimique\nBarbituriques (Phénobarbital), \nSulfamides.\nHémi synthèse\n• Une substance naturelle inactive peut être modifié au \nlaboratoire et transformée en médicament dont \nl’assemblement et la modification seront assurés par \ndes moyens chimiques. \n• C'est ainsi qu'une série de pénicillines hemi- \nsynthétiques ont été obtenues à partir de l'acide \namino-6-pénicillinique, lui même retire des cultures \ndu pénicillium."
+    },
+    {
+      "page": 28,
+      "text": "28\nBiogénétique\n3\n• Les méthodes de « génie génétique » sont les dernières venues parmi les méthodes \nd’obtention des médicaments : elles permettent de faire fabriquer par des cellules vivantes \n– procaryotes ou eucaryotes – des substances naturelles polypeptidiques présentant \ntoutes les caractéristiques de leur modèle humain.\nLa biogénétique permet de :\no Isoler un gène d’intérêt\no Le transférer dans une cellule hôte\no Faire produire par cette cellule une protéine thérapeutique\no Utiliser cette protéine comme médicament\n Insuline recombinante → traitement du diabète\n Hormone de croissance (GH)\n Erythropoïétine (EPO) → traitement de l’anémie"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+try { const theme = localStorage.getItem('fasila-theme'); if (theme === 'dark' || theme === 'light') document.documentElement.dataset.theme = theme; } catch { /* Browser storage can be unavailable. */ }

@@ -1,0 +1,143 @@
+{
+  "course": {
+    "titleFr": "Pharmacologie générale – Partie 1",
+    "professor": "Pr. KHARCHOUFA Loubna",
+    "institute": "ISPITS · Beni Mellal · Annexe Khénifra",
+    "year": "2025–2026",
+    "source": "source/COURS PHARMACOLOGIE S2 PARTIE 1 TC 2025.pdf"
+  },
+  "objectives": [
+    "وصف المفاهيم الأساسية للحركية الدوائية {{Pharmacocinétique}}.",
+    "شرح كيفية عمل مختلف المضادات الحيوية {{Antibiotiques}}.",
+    "توظيف مفاهيم علم الأدوية في وضعية رعاية تمريضية.",
+    "تعريف الآثار غير المرغوبة للأدوية {{Effets indésirables}}.",
+    "تفسير العلامات السريرية المرتبطة بتناول الدواء."
+  ],
+  "parts": [
+    {
+      "id": "p1",
+      "titleAr": "مدخل إلى علم الأدوية",
+      "titleFr": "Introduction à la pharmacologie",
+      "unlocked": true
+    },
+    {
+      "id": "p2",
+      "titleAr": "أساسيات الحركية الدوائية",
+      "titleFr": "Pharmacocinétique",
+      "unlocked": false
+    },
+    {
+      "id": "p3",
+      "titleAr": "أساسيات الديناميكا الدوائية",
+      "titleFr": "Pharmacodynamie",
+      "unlocked": false
+    },
+    {
+      "id": "p4",
+      "titleAr": "علم الأدوية العلاجي",
+      "titleFr": "Pharmacologie thérapeutique",
+      "unlocked": false
+    }
+  ],
+  "chapters": [
+    {
+      "id": "c1",
+      "partId": "p1",
+      "file": "c1.json",
+      "titleAr": "ما هو علم الأدوية؟",
+      "titleFr": "Qu’est-ce que la pharmacologie ?",
+      "minutes": 12,
+      "order": 1
+    },
+    {
+      "id": "c2",
+      "partId": "p1",
+      "file": "c2.json",
+      "titleAr": "فروع علم الأدوية",
+      "titleFr": "Les branches de la pharmacologie",
+      "minutes": 14,
+      "order": 2
+    },
+    {
+      "id": "c3",
+      "partId": "p1",
+      "file": "c3.json",
+      "titleAr": "الدواء: مكوّناته وأسماؤه",
+      "titleFr": "Le médicament",
+      "minutes": 20,
+      "order": 3
+    },
+    {
+      "id": "c4",
+      "partId": "p1",
+      "file": "c4.json",
+      "titleAr": "كيف نقرأ الوصفة الطبية؟",
+      "titleFr": "L’ordonnance médicale",
+      "minutes": 12,
+      "order": 4
+    },
+    {
+      "id": "c5",
+      "partId": "p1",
+      "file": "c5.json",
+      "titleAr": "من أين تأتي الأدوية؟",
+      "titleFr": "Origine des médicaments",
+      "minutes": 15,
+      "order": 5
+    },
+    {
+      "id": "c6",
+      "partId": "p1",
+      "file": "c6.json",
+      "titleAr": "طرق إعطاء الدواء",
+      "titleFr": "Voies d’administration",
+      "minutes": 25,
+      "order": 6
+    },
+    {
+      "id": "c7",
+      "partId": "p1",
+      "file": "c7.json",
+      "titleAr": "الأشكال الصيدلانية",
+      "titleFr": "Formes galéniques",
+      "minutes": 25,
+      "order": 7
+    },
+    {
+      "id": "c8",
+      "partId": "p1",
+      "file": "c8.json",
+      "titleAr": "رحلة الدواء إلى المريض",
+      "titleFr": "Cycle de vie du médicament",
+      "minutes": 22,
+      "order": 8
+    },
+    {
+      "id": "c9",
+      "partId": "p1",
+      "file": "c9.json",
+      "titleAr": "البراءة والدواء الجنيس",
+      "titleFr": "Brevet et médicaments génériques",
+      "minutes": 14,
+      "order": 9
+    },
+    {
+      "id": "c10",
+      "partId": "p1",
+      "file": "c10.json",
+      "titleAr": "التداخلات الدوائية",
+      "titleFr": "Interactions médicamenteuses",
+      "minutes": 14,
+      "order": 10
+    },
+    {
+      "id": "c11",
+      "partId": "p1",
+      "file": "c11.json",
+      "titleAr": "كيف تُصنَّف الأدوية؟",
+      "titleFr": "Classement des médicaments",
+      "minutes": 22,
+      "order": 11
+    }
+  ]
+}

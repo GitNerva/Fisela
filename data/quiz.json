@@ -1,0 +1,766 @@
+[
+  {
+    "type": "mcq",
+    "prompt": "ما الذي تدرسه {{Pharmacologie}}؟",
+    "options": [
+      "تأثيرات الدواء ومصيره في الجسم",
+      "الجراحة وحدها",
+      "أسعار الأدوية فقط"
+    ],
+    "answer": 0,
+    "explanation": "تعريف {{Pharmacologie}} يجمع تأثيرات الدواء ومصيره داخل الجسم.",
+    "extra": false,
+    "id": "c1-q1",
+    "chapterId": "c1"
+  },
+  {
+    "type": "boolean",
+    "prompt": "تنتهي دراسة الدواء عند طرحه في السوق.",
+    "options": [
+      "صحيح",
+      "خطأ"
+    ],
+    "answer": 1,
+    "explanation": "تشمل {{Pharmacologie}} استعمال الدواء بعد طرحه في السوق أيضًا.",
+    "id": "c1-q2",
+    "chapterId": "c1"
+  },
+  {
+    "type": "complete",
+    "prompt": "أكمل المصطلح الفرنسي: علم الأدوية هو…",
+    "answer": "Pharmacologie",
+    "explanation": "{{Pharmacologie}} هي science du médicament.",
+    "id": "c1-q3",
+    "chapterId": "c1"
+  },
+  {
+    "type": "matching",
+    "prompt": "صِل كل كلمة بمعناها.",
+    "pairs": [
+      {
+        "fr": "Pharmaco",
+        "ar": "عقار أو علاج أو سم"
+      },
+      {
+        "fr": "Logie",
+        "ar": "علوم"
+      },
+      {
+        "fr": "Thérapeutique",
+        "ar": "التدبير العلاجي"
+      }
+    ],
+    "explanation": "تمييز {{Pharmaco}} عن {{Logie}} يساعدك على حفظ أصل الكلمة.",
+    "id": "c1-q4",
+    "chapterId": "c1"
+  },
+  {
+    "type": "mcq",
+    "prompt": "ما الذي يميّز {{Thérapeutique}}؟",
+    "options": [
+      "اختيار استراتيجية علاج تراعي خصوصية المريض",
+      "دراسة تركيب المادة فقط",
+      "تقتصر على الدواء وحده"
+    ],
+    "answer": 0,
+    "explanation": "{{Thérapeutique}} تختار من الوسائل المتاحة بحسب المريض، ولا تقتصر على الأدوية.",
+    "extra": false,
+    "id": "c1-q5",
+    "chapterId": "c1"
+  },
+  {
+    "type": "mcq",
+    "prompt": "أي فرع يدرس فعل الجسم على الدواء؟",
+    "options": [
+      "Pharmacocinétique",
+      "Pharmacodynamie",
+      "Pharmacologie spéciale"
+    ],
+    "answer": 0,
+    "explanation": "{{Pharmacocinétique}} تدرس فعل الجسم على الدواء.",
+    "extra": false,
+    "id": "c2-q1",
+    "chapterId": "c2"
+  },
+  {
+    "type": "boolean",
+    "prompt": "دراسة المادة الفعالة على نسيج معزول تدخل في الفرع الأساسي.",
+    "options": [
+      "صحيح",
+      "خطأ"
+    ],
+    "answer": 0,
+    "explanation": "{{Pharmacologie fondamentale}} تشمل الخلايا والأنسجة والأعضاء وحيوانات المختبر.",
+    "id": "c2-q2",
+    "chapterId": "c2"
+  },
+  {
+    "type": "complete",
+    "prompt": "أكمل: كشف الآثار غير المرغوبة والوقاية منها = …",
+    "answer": "Pharmacovigilance",
+    "explanation": "هذا هو دور {{Pharmacovigilance}}.",
+    "id": "c2-q3",
+    "chapterId": "c2"
+  },
+  {
+    "type": "matching",
+    "prompt": "صِل الفرع بموضوعه.",
+    "pairs": [
+      {
+        "fr": "Pharmacodynamie",
+        "ar": "فعل الدواء على هدفه"
+      },
+      {
+        "fr": "Pharmacologie clinique",
+        "ar": "التجارب عند الإنسان"
+      },
+      {
+        "fr": "Pharmacologie spéciale",
+        "ar": "الفئات الدوائية"
+      }
+    ],
+    "explanation": "تذكّر موضوع كل فرع، خصوصًا الفرق بين {{Pharmacodynamie}} و{{Pharmacocinétique}}.",
+    "id": "c2-q4",
+    "chapterId": "c2"
+  },
+  {
+    "type": "mcq",
+    "prompt": "ما ترتيب العمليات الوارد في الحركية الدوائية؟",
+    "options": [
+      "Absorption, distribution, métabolisme, excrétion",
+      "وصفة، سعر، تسويق",
+      "جراحة، أشعة، حمية"
+    ],
+    "answer": 0,
+    "explanation": "العمليات الأربع في {{Pharmacocinétique}} هي الامتصاص والتوزيع والاستقلاب والإطراح.",
+    "extra": false,
+    "id": "c2-q5",
+    "chapterId": "c2"
+  },
+  {
+    "type": "mcq",
+    "prompt": "أي مكوّن يمنح الدواء خصائصه العلاجية؟",
+    "options": [
+      "Principe actif",
+      "Excipient",
+      "Nom commercial"
+    ],
+    "answer": 0,
+    "explanation": "{{Principe actif}} هو الجزيئة الأم التي تمنح الخصائص العلاجية أو الوقائية.",
+    "extra": false,
+    "id": "c3-q1",
+    "chapterId": "c3"
+  },
+  {
+    "type": "boolean",
+    "prompt": "الوظيفة التشخيصية تدخل في تعريف الدواء.",
+    "options": [
+      "صحيح",
+      "خطأ"
+    ],
+    "answer": 0,
+    "explanation": "يشمل {{Médicament}} ما يُعطى لإقامة تشخيص طبي.",
+    "id": "c3-q2",
+    "chapterId": "c3"
+  },
+  {
+    "type": "matching",
+    "prompt": "صِل الاسم بمستواه في مثال الدرس.",
+    "pairs": [
+      {
+        "fr": "Paracétamol",
+        "ar": "التسمية الدولية المشتركة"
+      },
+      {
+        "fr": "Doliprane",
+        "ar": "الاسم التجاري"
+      },
+      {
+        "fr": "Hydroxy-4 acétanilide",
+        "ar": "الاسم الكيميائي"
+      }
+    ],
+    "explanation": "{{DCI}} في المثال هي Paracétamol، بينما Doliprane اسم تجاري.",
+    "id": "c3-q3",
+    "chapterId": "c3"
+  },
+  {
+    "type": "complete",
+    "prompt": "ما اختصار التسمية الدولية المشتركة؟",
+    "answer": "DCI",
+    "explanation": "{{DCI}} تعني Dénomination Commune Internationale.",
+    "id": "c3-q4",
+    "chapterId": "c3"
+  },
+  {
+    "type": "mcq",
+    "prompt": "إعطاء العنصر الناقص مثل الإنسولين مثال لوظيفة…",
+    "options": [
+      "Substitutive",
+      "Diagnostique",
+      "Symptomatique"
+    ],
+    "answer": 0,
+    "explanation": "{{Substitutive}} تعني تعويض العنصر الناقص كما في مثال الإنسولين في الدرس.",
+    "extra": false,
+    "id": "c3-q5",
+    "chapterId": "c3"
+  },
+  {
+    "type": "mcq",
+    "prompt": "من يمكنه كتابة وصفة وفق الدرس؟",
+    "options": [
+      "مهني صحي مخوّل",
+      "أي فرد من الأسرة",
+      "المريض دون تأهيل"
+    ],
+    "answer": 0,
+    "explanation": "{{Ordonnance}} يحررها مهني صحي habilité ضمن الشروط القانونية.",
+    "extra": false,
+    "id": "c4-q1",
+    "chapterId": "c4"
+  },
+  {
+    "type": "boolean",
+    "prompt": "الوصفة الطبية يمكن أن تكون مشتركة لعدة مرضى.",
+    "options": [
+      "صحيح",
+      "خطأ"
+    ],
+    "answer": 1,
+    "explanation": "{{Ordonnance}} دائمًا individuelle، أي فردية.",
+    "id": "c4-q2",
+    "chapterId": "c4"
+  },
+  {
+    "type": "complete",
+    "prompt": "اكتب المصطلح الفرنسي لنظام الجرعات.",
+    "answer": "Posologie",
+    "explanation": "{{Posologie}} عنصر مطلوب مع طريقة الاستعمال.",
+    "id": "c4-q3",
+    "chapterId": "c4"
+  },
+  {
+    "type": "matching",
+    "prompt": "صِل العنصر بمعناه.",
+    "pairs": [
+      {
+        "fr": "Dosage",
+        "ar": "قوة المستحضر"
+      },
+      {
+        "fr": "Durée du traitement",
+        "ar": "مدة العلاج"
+      },
+      {
+        "fr": "Prescripteur",
+        "ar": "الواصف"
+      }
+    ],
+    "explanation": "قائمة {{Ordonnance}} تتطلب القوة والمدة وهوية الواصف.",
+    "id": "c4-q4",
+    "chapterId": "c4"
+  },
+  {
+    "type": "mcq",
+    "prompt": "ما العبارة الموافقة للدرس؟",
+    "options": [
+      "يمكن للصيدلي رفض وصفة تخالف القواعد",
+      "مدة العلاج غير مطلوبة",
+      "شكل الدواء لا يُذكر"
+    ],
+    "answer": 0,
+    "explanation": "يحق للصيدلي رفض {{Prescription}} التي تخرج عن القواعد الجاري بها العمل.",
+    "extra": false,
+    "id": "c4-q5",
+    "chapterId": "c4"
+  },
+  {
+    "type": "mcq",
+    "prompt": "ما الأصل المذكور للمورفين؟",
+    "options": [
+      "نباتي",
+      "معدني",
+      "اصطناع كلي"
+    ],
+    "answer": 0,
+    "explanation": "{{Morphine}} مثال Alcaloïde من أصل نباتي.",
+    "extra": false,
+    "id": "c5-q1",
+    "chapterId": "c5"
+  },
+  {
+    "type": "boolean",
+    "prompt": "نصف الاصطناع يبدأ من مادة طبيعية تُعدّل كيميائيًا.",
+    "options": [
+      "صحيح",
+      "خطأ"
+    ],
+    "answer": 0,
+    "explanation": "{{Hémisynthèse}} تعتمد تعديل مادة طبيعية في المختبر.",
+    "id": "c5-q2",
+    "chapterId": "c5"
+  },
+  {
+    "type": "matching",
+    "prompt": "اربط المثال بأصله المذكور.",
+    "pairs": [
+      {
+        "fr": "Iode",
+        "ar": "معدني"
+      },
+      {
+        "fr": "Héparine extraite des poumons",
+        "ar": "حيواني"
+      },
+      {
+        "fr": "Phénobarbital",
+        "ar": "اصطناع كلي"
+      }
+    ],
+    "explanation": "حفظ المثال مع فئة {{Origine}} يساعد على المقارنة.",
+    "id": "c5-q3",
+    "chapterId": "c5"
+  },
+  {
+    "type": "complete",
+    "prompt": "ما اختصار الإريثروبويتين المذكور لفقر الدم؟",
+    "answer": "EPO",
+    "explanation": "{{EPO}} مثال منتج بالهندسة الوراثية لعلاج فقر الدم.",
+    "id": "c5-q4",
+    "chapterId": "c5"
+  },
+  {
+    "type": "mcq",
+    "prompt": "ما الخطوة التي تلي عزل المورثة؟",
+    "options": [
+      "نقلها إلى خلية مضيفة",
+      "إعطاء المورثة مباشرة للمريض في هذا المخطط",
+      "تسويق الدواء فورًا"
+    ],
+    "answer": 0,
+    "explanation": "في {{Biogénétique}} تُنقل المورثة المعزولة إلى cellule hôte قبل إنتاج البروتين.",
+    "extra": false,
+    "id": "c5-q5",
+    "chapterId": "c5"
+  },
+  {
+    "type": "mcq",
+    "prompt": "اختر الطريق المناسب: حالة استعجال يتطلب فيها السؤال أثرًا فوريًا حسب جدول الدرس.",
+    "options": [
+      "Intraveineuse",
+      "Per os",
+      "Rectale"
+    ],
+    "answer": 0,
+    "explanation": "يذكر جدول {{Voie parentérale (IV)}} الأثر الفوري والاستعجال؛ هذا اختيار تعليمي من معطيات الجدول.",
+    "extra": false,
+    "id": "c6-q1",
+    "chapterId": "c6"
+  },
+  {
+    "type": "boolean",
+    "prompt": "الطريق الفموي المخاطي هو نفسه بلع الدواء.",
+    "options": [
+      "صحيح",
+      "خطأ"
+    ],
+    "answer": 1,
+    "explanation": "{{Voie buccale}} تصف الانتشار عبر مخاطية الفم، بينما {{Per os}} يعني البلع.",
+    "id": "c6-q2",
+    "chapterId": "c6"
+  },
+  {
+    "type": "matching",
+    "prompt": "اربط الطريق بزاويته في الرسم.",
+    "pairs": [
+      {
+        "fr": "IM",
+        "ar": "90°"
+      },
+      {
+        "fr": "SC",
+        "ar": "45°"
+      },
+      {
+        "fr": "IV",
+        "ar": "25°"
+      },
+      {
+        "fr": "ID",
+        "ar": "10–15°"
+      }
+    ],
+    "explanation": "هذه زوايا شكل الدرس؛ {{ID}} داخل الأدمة و{{IM}} داخل العضل.",
+    "id": "c6-q3",
+    "chapterId": "c6"
+  },
+  {
+    "type": "complete",
+    "prompt": "اكتب اختصار الطريق الوريدي.",
+    "answer": "IV",
+    "explanation": "{{IV}} تعني Intraveineuse.",
+    "id": "c6-q4",
+    "chapterId": "c6"
+  },
+  {
+    "type": "mcq",
+    "prompt": "اختر الطريق المناسب: تمرين يطلب إعطاءً عبر المستقيم بشكل تحميلة.",
+    "options": [
+      "Rectale",
+      "Intramusculaire",
+      "Nasale"
+    ],
+    "answer": 0,
+    "explanation": "{{Suppositoire}} من أمثلة {{Voie rectale}}. تُختار الطرق سريريًا وفق مجمل المعايير المذكورة.",
+    "extra": false,
+    "id": "c6-q5",
+    "chapterId": "c6"
+  },
+  {
+    "type": "mcq",
+    "prompt": "ما تعريف المعلّق؟",
+    "options": [
+      "مسحوق غير ذائب مبعثر في سائل",
+      "سائلان غير ممتزجين",
+      "مادة مذابة كليًا في مذيب"
+    ],
+    "answer": 0,
+    "explanation": "{{Suspension}} هي dispersion d’une poudre insoluble dans un liquide.",
+    "extra": false,
+    "id": "c7-q1",
+    "chapterId": "c7"
+  },
+  {
+    "type": "boolean",
+    "prompt": "الشراب المحلى لا يستدعي الانتباه لدى مريض السكري.",
+    "options": [
+      "صحيح",
+      "خطأ"
+    ],
+    "answer": 1,
+    "explanation": "تنبه شريحة {{Sirops}} إلى تركيز السكر المرتفع عند مريض السكري.",
+    "id": "c7-q2",
+    "chapterId": "c7"
+  },
+  {
+    "type": "complete",
+    "prompt": "ما اختصار التحرّر المطوّل؟",
+    "answer": "LP",
+    "explanation": "{{LP}} تعني Libération prolongée.",
+    "id": "c7-q3",
+    "chapterId": "c7"
+  },
+  {
+    "type": "matching",
+    "prompt": "صِل الشكل بطريقه.",
+    "pairs": [
+      {
+        "fr": "Collyre",
+        "ar": "عيني"
+      },
+      {
+        "fr": "Suppositoire",
+        "ar": "شرجي"
+      },
+      {
+        "fr": "Gélule",
+        "ar": "فموي"
+      }
+    ],
+    "explanation": "هذه أمثلة {{Formes galéniques}} المرتبطة بطرق الإعطاء.",
+    "id": "c7-q4",
+    "chapterId": "c7"
+  },
+  {
+    "type": "mcq",
+    "prompt": "أي خاصية مطلوبة للمحلول الحقني؟",
+    "options": [
+      "Apyrogénicité",
+      "ارتفاع السكر دائمًا",
+      "غياب التعقيم"
+    ],
+    "answer": 0,
+    "explanation": "{{Apyrogénicité}} من الخصائص الخمس للمحاليل الحقنية.",
+    "extra": false,
+    "id": "c7-q5",
+    "chapterId": "c7"
+  },
+  {
+    "type": "mcq",
+    "prompt": "في أي مرحلة يذكر الدرس 150 إلى 350 مريضًا؟",
+    "options": [
+      "Phase II",
+      "Phase I",
+      "Phase IV"
+    ],
+    "answer": 0,
+    "explanation": "تقيّم {{Phase II}} الفعالية والمأمونية وتحسّن الجرعة.",
+    "extra": false,
+    "id": "c8-q1",
+    "chapterId": "c8"
+  },
+  {
+    "type": "boolean",
+    "prompt": "المرحلة الرابعة تسبق تسويق الدواء.",
+    "options": [
+      "صحيح",
+      "خطأ"
+    ],
+    "answer": 1,
+    "explanation": "{{Phase IV}} تأتي بعد التسويق وتتضمن Pharmacovigilance.",
+    "id": "c8-q2",
+    "chapterId": "c8"
+  },
+  {
+    "type": "matching",
+    "prompt": "صِل المحور بالخبراء.",
+    "pairs": [
+      {
+        "fr": "Qualité",
+        "ar": "خبراء صيدلانيون"
+      },
+      {
+        "fr": "Sécurité",
+        "ar": "خبراء الأدوية والسموم"
+      },
+      {
+        "fr": "Efficacité",
+        "ar": "خبراء سريريون"
+      }
+    ],
+    "explanation": "هذه المحاور الثلاثة تُقيّم قبل قرار {{AMM}}.",
+    "id": "c8-q3",
+    "chapterId": "c8"
+  },
+  {
+    "type": "complete",
+    "prompt": "ما اختصار ترخيص طرح الدواء في السوق؟",
+    "answer": "AMM",
+    "explanation": "{{AMM}} هي Autorisation de mise sur le marché.",
+    "id": "c8-q4",
+    "chapterId": "c8"
+  },
+  {
+    "type": "mcq",
+    "prompt": "من أي تاريخ تُحسب 20 سنة للبراءة في خط الزمن؟",
+    "options": [
+      "من إيداع البراءة",
+      "من آخر وصفة",
+      "تبدأ تلقائيًا بعد انتهاء المرحلة الرابعة"
+    ],
+    "answer": 0,
+    "explanation": "تقرأ مدة {{Brevet}} من dépôt du brevet عند السنة صفر، مع ملاحظة عبارة الاستغلال.",
+    "extra": false,
+    "id": "c8-q5",
+    "chapterId": "c8"
+  },
+  {
+    "type": "mcq",
+    "prompt": "أي مجموعة تحقق تعريف الجنيس في الدرس؟",
+    "options": [
+      "نفس المواد الفعالة كمًا ونوعًا، نفس الشكل، تكافؤ حيوي مثبت",
+      "نفس اللون فقط",
+      "نفس الاسم التجاري فقط"
+    ],
+    "answer": 0,
+    "explanation": "تعريف {{Générique}} يذكر الشروط الثلاثة، ولا يعتمد على اللون أو الاسم التجاري.",
+    "extra": false,
+    "id": "c9-q1",
+    "chapterId": "c9"
+  },
+  {
+    "type": "boolean",
+    "prompt": "مدة البراءة المذكورة في الدرس هي 20 سنة.",
+    "options": [
+      "صحيح",
+      "خطأ"
+    ],
+    "answer": 0,
+    "explanation": "{{Brevet}} يحمي الاختراع 20 سنة في الإقليم الذي مُنح فيه.",
+    "id": "c9-q2",
+    "chapterId": "c9"
+  },
+  {
+    "type": "complete",
+    "prompt": "اكتب المصطلح الفرنسي للدواء الأصلي المرجعي.",
+    "answer": "Princeps",
+    "explanation": "{{Princeps}} هو الدواء المرجعي للجنيس.",
+    "id": "c9-q3",
+    "chapterId": "c9"
+  },
+  {
+    "type": "matching",
+    "prompt": "اربط الخاصية بمجالها.",
+    "pairs": [
+      {
+        "fr": "Prix inférieur",
+        "ar": "اقتصادي"
+      },
+      {
+        "fr": "Expiration du brevet",
+        "ar": "قانوني"
+      },
+      {
+        "fr": "Mêmes critères de qualité",
+        "ar": "علمي"
+      }
+    ],
+    "explanation": "الخصائص الاقتصادية والقانونية والعلمية للـ {{Générique}} متكاملة.",
+    "id": "c9-q4",
+    "chapterId": "c9"
+  },
+  {
+    "type": "mcq",
+    "prompt": "كيف يُثبت التكافؤ الحيوي حسب التعريف؟",
+    "options": [
+      "بدراسات مناسبة للتوافر الحيوي",
+      "بتشابه العبوة",
+      "باختيار اسم تجاري قريب"
+    ],
+    "answer": 0,
+    "explanation": "{{Bioéquivalence}} تُثبت بدراسات Biodisponibilité.",
+    "extra": false,
+    "id": "c9-q5",
+    "chapterId": "c9"
+  },
+  {
+    "type": "mcq",
+    "prompt": "قد يغيّر التداخل الدوائي…",
+    "options": [
+      "الشدة أو المدة أو زمن الظهور",
+      "الاسم التجاري وحده",
+      "شكل العبوة فقط"
+    ],
+    "answer": 0,
+    "explanation": "{{Interaction médicamenteuse}} تُعرّف بتغير الأثر في هذه الجوانب.",
+    "extra": false,
+    "id": "c10-q1",
+    "chapterId": "c10"
+  },
+  {
+    "type": "boolean",
+    "prompt": "التداوي الذاتي من المشاركات العرضية في الدرس.",
+    "options": [
+      "صحيح",
+      "خطأ"
+    ],
+    "answer": 0,
+    "explanation": "{{Associations fortuites}} مرتبطة بـ Automédication.",
+    "id": "c10-q2",
+    "chapterId": "c10"
+  },
+  {
+    "type": "complete",
+    "prompt": "اكتب المصطلح الفرنسي للتقوية.",
+    "answer": "Potentialisation",
+    "explanation": "في {{Potentialisation}} يكون الأثر أكبر من الجمع البسيط.",
+    "id": "c10-q3",
+    "chapterId": "c10"
+  },
+  {
+    "type": "matching",
+    "prompt": "مثال رمزي: صِل النتيجة بالنوع.",
+    "pairs": [
+      {
+        "fr": "1 + 1 = 2",
+        "ar": "تآزر جمعي"
+      },
+      {
+        "fr": "1 + 1 = 3",
+        "ar": "تقوية"
+      },
+      {
+        "fr": "انخفاض الأثر إلى 0",
+        "ar": "تضاد"
+      }
+    ],
+    "explanation": "إضافة للتوضيح: الرموز تساعد على التفريق بين {{Synergie additive}} و{{Potentialisation}} و{{Antagonisme}}.",
+    "id": "c10-q4",
+    "chapterId": "c10",
+    "extra": true
+  },
+  {
+    "type": "mcq",
+    "prompt": "إضافة للتوضيح: دواءان أثر كل منهما وحدة؛ صار الأثر المشترك 3 وحدات. ما النوع؟",
+    "options": [
+      "Potentialisation",
+      "Synergie additive",
+      "Antagonisme"
+    ],
+    "answer": 0,
+    "explanation": "إضافة للتوضيح: 3 أكبر من الجمع البسيط 2؛ هذا نموذج رمزي لـ {{Potentialisation}}.",
+    "extra": true,
+    "id": "c10-q5",
+    "chapterId": "c10"
+  },
+  {
+    "type": "mcq",
+    "prompt": "مستحضر أُعدّ حسب وصفة طبيب لشخص معين، يُسمى…",
+    "options": [
+      "Magistral",
+      "Officinal",
+      "Grand public"
+    ],
+    "answer": 0,
+    "explanation": "{{Magistral}} يُحضَّر انطلاقًا من وصفة الطبيب لشخص معين.",
+    "extra": false,
+    "id": "c11-q1",
+    "chapterId": "c11"
+  },
+  {
+    "type": "boolean",
+    "prompt": "الوصفة الأولى المستشفوية تعني أن كل التجديدات لا يقوم بها إلا طبيب مستشفى.",
+    "options": [
+      "صحيح",
+      "خطأ"
+    ],
+    "answer": 1,
+    "explanation": "في {{Prescription initiale hospitalière}} يمكن لأي ممارس التجديد، مع احتمال فرض أجل لوصفة مستشفوية جديدة.",
+    "id": "c11-q2",
+    "chapterId": "c11"
+  },
+  {
+    "type": "matching",
+    "prompt": "صِل نظام التقييد بشرطه.",
+    "pairs": [
+      {
+        "fr": "Usage hospitalier",
+        "ar": "الاستعمال والوصف والصرف بالمستشفى"
+      },
+      {
+        "fr": "Surveillance particulière",
+        "ar": "فحوص دورية مثبتة"
+      },
+      {
+        "fr": "Compétence particulière",
+        "ar": "ممارسون مؤهلون محددون"
+      }
+    ],
+    "explanation": "أنظمة {{Prescription restreinte}} مذكورة في AMM.",
+    "id": "c11-q3",
+    "chapterId": "c11"
+  },
+  {
+    "type": "complete",
+    "prompt": "اكتب اسم قائمة المخدرات الدوائية بالفرنسية.",
+    "answer": "Stupéfiants",
+    "explanation": "{{Stupéfiants}} قد تؤدي إلى الإدمان وتستلزم ترخيصًا خاصًا.",
+    "id": "c11-q4",
+    "chapterId": "c11"
+  },
+  {
+    "type": "mcq",
+    "prompt": "حسب جدول الدرس، مدة وصف المخدرات…",
+    "options": [
+      "7 إلى 28 يومًا حسب المادة والشكل",
+      "12 شهرًا دائمًا",
+      "لا حد لها"
+    ],
+    "answer": 0,
+    "explanation": "جدول {{Stupéfiants}} يذكر de 7 à 28 jours selon la substance et la forme pharmaceutique.",
+    "extra": false,
+    "id": "c11-q5",
+    "chapterId": "c11"
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "id": "c4",
+  "partId": "p1",
+  "order": 4,
+  "titleAr": "كيف نقرأ الوصفة الطبية؟",
+  "titleFr": "L’ordonnance médicale",
+  "minutes": 12,
+  "intro": "الوصفة وثيقة فردية يجب أن تُقرأ وتُفهم. تعلّم عناصرها، ثم تدرب على ملاحظة النقص في نموذج تعليمي.",
+  "sections": [
+    {
+      "title": "وثيقة يكتبها مهني مخوّل",
+      "paragraphs": [
+        "{{Ordonnance}} — الوصفة الطبية: وثيقة مكتوبة يحررها مهني صحي مخوّل ضمن شروط الوصف القانونية: طبيب أو جراح أسنان أو قابلة أو طبيب بيطري."
+      ]
+    },
+    {
+      "title": "أربعة مبادئ لا ننساها",
+      "paragraphs": [],
+      "items": [
+        "الوصفة دائمًا فردية، أي مرتبطة بمريض بعينه.",
+        "تُلزم الواصف بمسؤوليته الأخلاقية والقانونية والمهنية.",
+        "تُكتب كي يقرأها المريض ويفهمها.",
+        "يحق للصيدلي رفض وصفة تخالف القواعد الجاري بها العمل."
+      ]
+    },
+    {
+      "title": "ماذا نبحث عنه في الوصفة؟",
+      "paragraphs": [],
+      "items": [
+        "الاسم الشخصي والعائلي للواصف وعنوانه ورقم هاتفه.",
+        "تاريخ الوصفة، واسم المريض وأحيانًا عمره.",
+        "أسماء الأدوية مكتوبة بوضوح وبشكل مقروء.",
+        "{{Forme pharmaceutique}} — الشكل الصيدلاني، مثل قرص أو حقنة.",
+        "{{Dosage}} — قوة المستحضر، مثل 50 أو 100 أو 500 mg في أمثلة الدرس.",
+        "{{Posologie et mode d’emploi}} — نظام الجرعات وطريقة الاستعمال.",
+        "{{Durée du traitement}} — مدة العلاج."
+      ]
+    },
+    {
+      "title": "افصل بين قوة المستحضر ونظام استعماله",
+      "paragraphs": [
+        "{{Dosage}} يذكر قوة الدواء في الوصفة؛ و{{Posologie}} تخص نظام تناوله. وجود أحدهما لا يعوّض الآخر عند مراجعة العناصر المطلوبة."
+      ],
+      "note": "إضافة للتوضيح: هذا التفريق يساعد على قراءة قائمة عناصر الوصفة. النموذج التفاعلي تمرين مصطنع، وليس وصفة علاجية قابلة للاستعمال."
+    }
+  ],
+  "animations": [
+    {
+      "type": "prescription",
+      "title": "اكتشف الخطأ في الوصفة",
+      "caption": "انقر الأسطر الثلاثة الناقصة في الوصفة التعليمية؛ كل عنصر يُكتشف له تفسير."
+    }
+  ],
+  "summary": [
+    "الوصفة فردية ويحررها مهني مخوّل.",
+    "راجع هوية الواصف والمريض والتاريخ، ثم الدواء وشكله وقوته ونظامه ومدته.",
+    "يحق للصيدلي رفض الوصفة المخالفة للقواعد."
+  ],
+  "sourcePages": [
+    22,
+    23
+  ],
+  "originals": [
+    {
+      "page": 22,
+      "text": "22\na- Définition\nL’ordonnance est un document écrit rédigé par un professionnel de la santé habilité à le \nfaire dans les conditions légales de la prescription (médecin, chirurgien-dentiste, sage-\nfemme, vétérinaire). \nb- Principes généraux de l’ordonnance\n• Une ordonnance est toujours individuelle.\n• Engage la responsabilité morale, juridique et professionnelle du prescripteur.\n• Une ordonnance est faite pour être lue, et comprise par le malade.\n• Le pharmacien a le droit de refuser une prescription qui s’écarterait des règles en \nvigueur.\n5- L’ordonnance médicale"
+    },
+    {
+      "page": 23,
+      "text": "23\nc- Obligations légales relatives à la prescription médicale\n• Le nom, le prénom, adresse, N° de téléphone du souscripteur.\n• La date de la prescription\n• Le nom du malade parfois l’âge.\n• Le nom du (es) MDT (claire et visible) \n• La forme pharmaceutique (comprimé, injection)\n• Le dosage du MDTS (50mg, 100mg, 500mg)\n• Posologie et mode d’emploi\n• La durée du traitement"
+    }
+  ]
+}

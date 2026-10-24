@@ -1,0 +1,81 @@
+{
+  "id": "c1",
+  "partId": "p1",
+  "order": 1,
+  "titleAr": "ما هو علم الأدوية؟",
+  "titleFr": "Qu’est-ce que la pharmacologie ?",
+  "minutes": 12,
+  "intro": "قبل أن نحفظ أسماء الأدوية، نفهم العلم الذي يدرسها: ماذا يفعل الدواء داخل الجسم، وماذا يحدث له بعد تناوله؟",
+  "sections": [
+    {
+      "title": "نبدأ من الكلمة",
+      "paragraphs": [
+        "{{Pharmaco}} تعني عقارًا أو علاجًا أو سمًّا؛ و{{logie}} تعني العلوم. إذن {{Pharmacologie}} هي علم الأدوية. لاحظ أن أصل الكلمة يجمع العلاج والسم، كما جاء في الدرس."
+      ]
+    },
+    {
+      "title": "علم يرافق الدواء طوال رحلته",
+      "paragraphs": [
+        "{{Pharmacologie}} — علم الأدوية: تدرس تأثيرات الدواء ومصيره داخل الجسم. يمتد مجالها من تطوير الدواء إلى استعماله بعد طرحه في السوق.",
+        "تدرس {{Mécanisme d’action}} — آلية التأثير، أي كيف يعمل الدواء؛ و{{Conditions d’utilisation}} — شروط استعماله؛ و{{Efficacité}} — الفعالية، أي قدرته على إحداث الأثر المطلوب؛ و{{Sécurité d’emploi}} — سلامة الاستعمال."
+      ]
+    },
+    {
+      "title": "ملتقى علوم كثيرة",
+      "paragraphs": [
+        "{{Discipline carrefour}} — علم عند ملتقى تخصصات: تساعده علوم متعددة على فهم الدواء والجسم معًا.",
+        "يربط الرسم {{Pharmacologie}} — علم الأدوية بـ {{Pharmacie}} — الصيدلة، ثم {{Médicament}} — الدواء، ثم {{Pharmacothérapie}} — العلاج الدوائي، وصولًا إلى {{Patient}} — المريض."
+      ],
+      "items": [
+        "{{Pharmacie}} — الصيدلة: مجال إعداد الدواء وتقديمه. {{Chimie}} — الكيمياء: لفهم المادة وتركيبها.",
+        "{{Biologie}} — علم الأحياء؛ {{Génétique}} — علم الوراثة؛ {{Physiologie}} — علم وظائف الأعضاء.",
+        "{{Pathologie}} — علم الأمراض؛ {{Clinique}} — المجال السريري المرتبط بالمريض؛ {{Toxicologie}} — علم السموم.",
+        "{{Thérapeutique}} — علم التدبير العلاجي: يختار وسائل علاج المريض. في الرسم: علم الأدوية ← الصيدلة ← الدواء ← العلاج الدوائي ← المريض."
+      ]
+    },
+    {
+      "title": "نميّز بين علم الأدوية والتدبير العلاجي",
+      "paragraphs": [
+        "{{Thérapeutique}} — التدبير العلاجي: يتعلق بالاختيارات الاستراتيجية لعلاج مريض مع مراعاة خصوصيته والوسائل المتاحة. {{Pharmacologie}} تدرس الدواء، وهي إحدى الوسائل الداخلة في هذه الاختيارات.",
+        "يسرد الدرس: {{Diététique}} — الحمية، {{Chirurgie}} — الجراحة، {{Radiothérapie}} — العلاج الإشعاعي، {{Kinésithérapie}} — العلاج الحركي، {{Homéopathie}} — المعالجة المثلية، {{Thermalisme}} — العلاج بالمياه المعدنية، {{Phytothérapie}} — التداوي بالنبات، {{Psychanalyse}} — التحليل النفسي، {{Psychothérapie}} — العلاج النفسي، وعلم الأدوية."
+      ],
+      "note": "ملاحظة للتوضيح: هذه لائحة الوسائل المذكورة في الدرس؛ ورودها هنا لا يشكّل توصية باستعمالها ولا مقارنة بين فعاليتها."
+    }
+  ],
+  "animations": [
+    {
+      "type": "etymology",
+      "title": "فكّك الكلمة لتتذكّرها",
+      "caption": "تنقسم الكلمة إلى {{Pharmaco}} (عقار، علاج أو سم) و{{logie}} (علوم)."
+    },
+    {
+      "type": "hub",
+      "title": "من العلم إلى المريض",
+      "caption": "اختر علمًا حول المركز، ثم تتبّع السلسلة من علم الأدوية إلى المريض."
+    }
+  ],
+  "summary": [
+    "{{Pharmacologie}}: علم الدواء وتأثيراته ومصيره داخل الجسم.",
+    "تبدأ دراسة الدواء أثناء تطويره وتستمر بعد تسويقه.",
+    "{{Thérapeutique}} أوسع: تختار استراتيجية العلاج المناسبة لخصوصية المريض."
+  ],
+  "sourcePages": [
+    5,
+    6,
+    7
+  ],
+  "originals": [
+    {
+      "page": 5,
+      "text": "INTRODUCTION À LA PHARMACOLOGIE\n5\n1- Qu’est-ce que la pharmacologie ?\no La pharmacologie, est la science du médicament : elle étudie les effets et le devenir \ndu médicament dans l’organisme.\no C’est une vaste discipline qui couvre l’étude du médicament de son développement à \nson utilisation après sa mise sur le marché. La pharmacologie comprend entre autres \nl’étude du mécanisme d’action du médicament, la définition de ses conditions \nd’utilisation, l’évaluation de son efficacité et de sa sécurité d’emploi.\nDrogue, remède ou poison\nSciences\nPharmaco\nlogie"
+    },
+    {
+      "page": 6,
+      "text": "6\nLa pharmacologie est une discipline carrefour qui touche à la \npharmacie, la chimie, la biologie, la génétique, la pathologie, la \nthérapeutique et à bien d’autres sciences"
+    },
+    {
+      "page": 7,
+      "text": "7\nLa pharmacologie doit être distinguée de la thérapeutique qui \nconcerne les choix stratégiques pour traiter un malade en fonction de \nson individualité et des armes disponibles (diététique, chirurgie, \nradiothérapie, kinésithérapie, homéopathie, thermalisme, phytothérapie, \npsychanalyse, psychothérapie… et pharmacologie)."
+    }
+  ]
+}
